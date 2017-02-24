@@ -1,0 +1,4 @@
+#directories
+logs/**
+/**/node_modules
+output.js

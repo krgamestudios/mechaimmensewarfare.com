@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="node_modules/markdown/lib/markdown.js"></script>
+    <script src="utilities.js"></script>
+    <script src="tsorter.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/semantic-ui/2.2.8/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="styles/shared.css" />
+  </head>
+
+  <body>
+    <!-- header content -->
+    <header>
+      <!-- header -->
+      <h1 class="ui header centered">Mecha Game Rules</h1>
+    </header>
+
+      <!-- navigation buttons -->
+    <div class="ui container center aligned">
+      <button class="ui button centered" onClick="printMarkdown('rules.md', document.getElementById('content'));">
+        Rules
+      </button>
+      <button class="ui button centered" onClick="printCSV('cards.csv', document.getElementById('content'));">
+        Cards
+      </button>
+      <button class="ui button centered" onClick="printCSV('card_concepts.csv', document.getElementById('content'));">
+        Card Concepts
+      </button>
+      <button class="ui button centered" onClick="printHTML('feedback.html', document.getElementById('content'))">
+        Feedback
+      </button>
+    </div>
+
+    <!-- body content -->
+    <div class="ui container" id="content"></div>
+
+    <!-- footer content -->
+    <footer>
+      <p>Copyright Kayne Ruse, KR Game Studios 2016-2017</p>
+    </footer>
+
+    <!-- end scripts -->
+    <script>
+      printMarkdown("rules.md", document.getElementById("content"));
+    </script>
+  </body>
+</html>

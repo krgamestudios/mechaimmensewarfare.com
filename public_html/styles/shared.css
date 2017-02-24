@@ -1,0 +1,42 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+#content {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	flex: 1;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 14px;
+}
+
+thead {
+	font-weight: bold;
+}
+
+footer {
+	text-align: center;
+}
+
+/* Up and Down Arrows */
+.descend:after{
+	content: "\25B2";
+}
+
+.ascend:after{
+	content: "\25BC";
+}

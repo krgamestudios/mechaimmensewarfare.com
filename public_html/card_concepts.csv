@@ -1,0 +1,11 @@
+Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
+EMP Blast;;Command;Destroy all towers (including mecha towers).;;
+Radio Silence;;Command;Destroy all towers (including mecha towers). Each player reveals their hands and discards all towers (including mecha towers).;;
+Cruiser;2;Mecha;Haste (this mecha can move and attack on the same turn it's played).;2;2
+Cruise Missle;1;Mecha;After this mecha attacks, destroy it.;4;1
+Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including radio towers).;;
+Sabotage;;Command;Sacrifice a tower you control. Destroy one target mecha.;;
+Heavy Fire;;Command;Remove all Armour counters from target mecha.;;
+Preparations;;Command;You may start the game with this card in your hand. Destroy one target mecha.;;
+Reparations;;Command;If a mecha you control is destroyed, destroy target mecha.;;
+Mortar Rain;;Command;Destroy target Mecha.;;

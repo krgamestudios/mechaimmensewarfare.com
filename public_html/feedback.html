@@ -1,0 +1,38 @@
+<script>
+</script>
+
+<p>If you have an idea for a card, a rule, or some other feedback (encouragement is greatly appreciated!) please let me know below!</p>
+
+<br />
+
+<form onSubmit="
+  var formData = new FormData();
+  formData.append('feedback', document.getElementById('feedback').value);
+
+  var request = new XMLHttpRequest();
+  request.open('POST', 'submit.cgi', true);
+
+  request.onreadystatechange = function() {
+    if (request.readyState !== 4) {
+      return 0;
+    }
+
+    if (request.status === 200) {
+      document.getElementById('content').innerHTML = request.responseText;
+    }
+  }
+
+  request.send(formData);
+  return false;
+">
+  <div class="field">
+    <textarea id="feedback" cols="40" rows="5"></textarea>
+  </div>
+
+  <br />
+
+  <div class="field">
+    <button class="ui button">Submit</button>
+  </div>
+</form>
+
