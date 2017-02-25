@@ -3,15 +3,15 @@ These are the official rules for Mecha Game. Anything not found on this website 
 Basic Rules
 ===
 
-The game takes place on a 5*7 grid, (wider than it is long). Players start the game with a deck of 40 cards, with no more than 3 copies of any one card (based on the card's name). Players draw 5 cards, then take turns by placing certain cards (see below) on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone (excluding movable units that player owns), then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
+The game takes place on a 5*7 grid, (wider than it is long). Players start the game with a deck of 40 cards, with no more than 3 copies of any one card, except for Basic cards, which have no limit. Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards (see below) on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
 
-The goal of the game is to attack your opponent directly five times. Each time a player is attacked directly by a mecha, they place the top card of their deck in the damage zone. Once there are five cards in a player's damage zone, that player loses the game.
+The goal of the game is to attack your opponent directly five times. Each time a player is attacked directly, they place the top card of their deck in the damage zone. Once there are five cards in a player's damage zone, that player loses the game.
 
-Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (see below). A player may have any number of cards named Radio Tower in their deck. Towers may be placed anywhere in your entry zone, or in a free space next to an existing tower you already control.
+Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (Radio Tower is a Basic Tower, therefore it has no limit on the number of copies you can have in your deck). Towers may be placed anywhere in your entry zone, or in a free space next to an existing tower you already control.
 
-Mechas are cards which act as playing pieces. A mecha card has three numbers down the side: their cost, their power and their durability. Players can play as many mechas as they want, as long as the mecha's total cost does not exceed their current bandwidth. If enough towers are destroyed that the bandwidth drops below the current population, then nothing special happens; the player simply can't play any more mechas until enough bandwidth is available. Mechas may only move one orthogonal space at a time. If a mecha can move more than one space, such as with the “speed” ability, then they must move along each space one at a time, and they cannot pass through other mechas or towers.
+Mechas are cards which act as playing pieces. A mecha card has three numbers down the side: their cost, their power and their durability. Players can play as many mechas as they want, as long as their mecha's total costs does not exceed their current bandwidth. If enough towers are destroyed that the bandwidth drops below the current cost, then nothing special happens; the player simply can't play any more mechas until enough bandwidth is available. Mechas may only move one orthogonal space at a time. If a mecha can move more than one space, such as with the “speed” ability, then they must move along each space one at a time, and they cannot pass through other mechas or towers.
 
-Command cards are cards with miscellaneous abilities, and they can be played at any time.
+Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the discard pile. Some commands may have unique requirements, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
 
 When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded.
 
@@ -76,7 +76,7 @@ Speed represents the distance a unit can move. All units normally have a movemen
 Range X
 ---
 
-Range represents the distance that a unit can attack. Normally, a unit can only attack neighbouring units, but an attacker with Range can attack up to X spaces away. When counting spaces for Range, count in orthogonal directions only; therefore attacking diagonally requires Range 2. Range allows a mecha to fire "over the top of" friendly units, but not enemy units; do this by ignoring friendly units when counting the distance to a target.
+Range represents the distance that a unit can attack. Normally, a unit can only attack neighbouring units, but an attacker with Range can attack up to X spaces away. When counting spaces for Range, count in orthogonal directions only; therefore attacking one space diagonally requires Range 2. Range allows a mecha to fire "over the top of" friendly units, but not enemy units; do this by ignoring friendly units when counting the distance to a target.
 
 Provide Xu
 ---
