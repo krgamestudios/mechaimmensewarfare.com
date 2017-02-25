@@ -7,7 +7,7 @@ The game takes place on a 5*7 grid, (wider than it is long). Players start the g
 
 The goal of the game is to attack your opponent directly five times. Each time a player is attacked directly by a mecha, they place the top card of their deck in the damage zone. Once there are five cards in a player's damage zone, that player loses the game.
 
-Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (see below). A player may have any number of cards named Radio Tower in their deck.
+Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (see below). A player may have any number of cards named Radio Tower in their deck. Towers may be placed anywhere in your entry zone, or in a free space next to an existing tower you already control.
 
 Mechas are cards which act as playing pieces. A mecha card has three numbers down the side: their cost, their power and their durability. Players can play as many mechas as they want, as long as the mecha's total cost does not exceed their current bandwidth. If enough towers are destroyed that the bandwidth drops below the current population, then nothing special happens; the player simply can't play any more mechas until enough bandwidth is available. Mechas may only move one orthogonal space at a time. If a mecha can move more than one space, such as with the “speed” ability, then they must move along each space one at a time, and they cannot pass through other mechas or towers.
 
@@ -82,4 +82,12 @@ Provide Xu
 ---
 
 Not strictly a keyword, but Towers usually provide a number of units ('u' for short) towards your total bandwidth.
+
+Other Rules
+===
+
+Mulligans
+---
+
+When you first draw five cards at the beginning of the game, you have the option to "mulligan", where you set aside your hand, draw five new cards, and shuffle your original hand into your deck. You can only do this once, if you are unhappy with your opening hand.
 
