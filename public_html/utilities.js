@@ -47,10 +47,17 @@ var printCSV = function (fname, node) {
 
     if (request.status === 200) {
       node.innerHTML = "";
+
       var table = parseCSVToTable(request.responseText, ';');
       table.id = "table";
-      table.className = "ui celled table";
-      node.appendChild(table);
+      table.className = "ui celled table unstackable";
+
+      var scrollable = document.createElement("DIV");
+      scrollable.className = "scrollable";
+
+      scrollable.appendChild(table);
+      node.appendChild(scrollable);
+
       var sorter = tsorter.create("table");
     }
     else {

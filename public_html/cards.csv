@@ -1,15 +1,15 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
 Radio Tower;;Basic Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn).;;2
-Radio Relay;2;Mecha Tower;(Radio Relay counts as a Mecha and a Tower. Play only one Tower card each turn.) Play this card only on a space with a Radio Tower. Destroy that tower. Provides 1u for each unit you control named Radio Relay (1 unit of bandwidth).;0;2
-Attack Vector;2;Mecha;(No abilities.);2;1
-Mega Bot;3;Mecha;(No abilities.);3;2
+Radio Relay;0;Mecha Tower;(Radio Relay counts as a Mecha and a Tower. Play only one Tower card each turn.) Play this card only on a space with a Radio Tower. Destroy that tower. Provides 1u for each unit you control named Radio Relay (1 unit of bandwidth).;0;2
+Attack Vector;1;Mecha;(No abilities.);2;1
+Mega Bot;2;Mecha;(No abilities.);3;2
 Class Ganon;3;Mecha;(No abilities.);4;1
 Mod Bot;2;Mecha;Sacrifice a neighbouring mecha you control: add that unit's durability to this mecha.;1;2
 Cap Gun;1;Mecha;Pierce (This unit ignores Armour counters). Reach (This unit may attack units with flight).;1;1
 Shortbow;1;Mecha;Pierce (This unit ignores Armour counters). Range 2 (This unit may attack any unit within two spaces).;1;1
 Longbow;2;Mecha;Pierce (This unit ignores Armour counters). Range 3 (This unit may attack any unit within three spaces).;1;1
 Bot-a-pult;2;Mecha;Reach (This unit may attack units with flight). Sacrifice a neighbouring mecha you control: this mecha gains Range 3 this turn (This unit may attack any unit within three spaces this turn).;2;2
-Stonewall;1;Mecha;This mecha can't attack. When this mecha moves it can't move next turn.;0;6
+Stonewall;1;Mecha;This mecha can't attack. When this mecha moves, it can't move next turn.;0;6
 Turtle;2;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This mecha may not attack and move in the same turn.;2;3
 Dragon;4;Mecha;Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This mecha may not attack and move in the same turn.;4;4
 Jager;6;Mecha;Armour 3 (This unit enters the battlefield with three Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Reach (This unit may attack units with flight).;6;6
@@ -22,5 +22,5 @@ Ramp Orders;;Command;One mecha you control gains Reach this turn (That unit may 
 Virus;;Command;Sacrifice a Tower you control. If you do, one mecha an opponent controls can't attack this turn.;;
 Tunnel Warfare;;Command;Discard another card from your hand. If you do, any one mecha you control can move an extra space this turn.;;
 Road Works;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this card, neighbouring mechas gain Speed 3 this turn (those unit may move up to three spaces this turn).;;
-Espionage;;Command;Look at any one player's hand, then draw a card.;;
-Ironhide;;Command;Put two Armour counters on any one mecha in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
+Espionage;;Command;Look at one target player's hand, then draw a card.;;
+Ironhide;;Command;Put two Armour counters on one target mecha in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
