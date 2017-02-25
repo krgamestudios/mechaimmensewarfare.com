@@ -16,11 +16,16 @@ Jager;6;Mecha;Armour 3 (This unit enters the battlefield with three Armour count
 Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with flight or reach).;1;1
 Wasp Drone;3;Mecha;Flight (This unit can't be attacked except by units with flight or reach). When this mecha attacks, the target can't attack next turn.;1;1
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with flight or reach). When this mecha attacks, the target must move next turn if possible.;1;1
-Attack Orders;;Command;One mecha you control can attack an extra time this turn.;;
-Marching Orders;;Command;One mecha you control can move an extra space this turn.;;
-Ramp Orders;;Command;One mecha you control gains Reach this turn (That unit may attack units with flight).;;
-Virus;;Command;Sacrifice a Tower you control. If you do, one mecha an opponent controls can't attack this turn.;;
-Tunnel Warfare;;Command;Discard another card from your hand. If you do, any one mecha you control can move an extra space this turn.;;
+Attack Orders;;Command;One target mecha you control can attack an extra time this turn.;;
+Marching Orders;;Command;One target mecha you control can move an extra space this turn.;;
+Ramp Orders;;Command;One target mecha you control gains Reach this turn (That unit may attack units with flight).;;
+Virus;;Command;Sacrifice a Tower you control. If you do, one target mecha an opponent controls can't attack this turn.;;
+Tunnel Warfare;;Command;Discard another card from your hand. If you do, one target mecha you control can move an extra space this turn.;;
 Road Works;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this card, neighbouring mechas gain Speed 3 this turn (those unit may move up to three spaces this turn).;;
 Espionage;;Command;Look at one target player's hand, then draw a card.;;
-Ironhide;;Command;Put two Armour counters on one target mecha in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
+Ironhide;;Command;Put two Armour counters on one target mecha you control in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
+Skipper;2;Mecha;Haste (this mecha can move and attack on the same turn it's played).;2;2
+Cruiser;3;Mecha;Haste (this mecha can move and attack on the same turn it's played).;3;3
+Corvette;4;Mecha;Haste (this mecha can move and attack on the same turn it's played).;4;4
+Cruise Missle;1;Mecha;Haste (this mecha can move and attack on the same turn it's played). After this mecha attacks, destroy it.;4;1
+Preparations;;Command;One target mecha you control gains haste this turn (that mecha can move and attack as normal if you played it this turn).;;

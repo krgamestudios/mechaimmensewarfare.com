@@ -13,7 +13,7 @@ Mechas are cards which act as playing pieces. A mecha card has three numbers dow
 
 Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the discard pile. Some commands may have unique requirements, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
 
-When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded. A unit cannot move or attack in the same turn it was played.
+When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded. A unit cannot move or attack in the same turn it was played, unless it has haste.
 
 Phases of a Turn
 ===
@@ -77,6 +77,11 @@ Range X
 ---
 
 Range represents the distance that a unit can attack. Normally, a unit can only attack neighbouring units, but an attacker with Range can attack up to X spaces away. When counting spaces for Range, count in orthogonal directions only; therefore attacking one space diagonally requires Range 2. Range allows a mecha to fire "over the top of" friendly units, but not enemy units; do this by ignoring friendly units when counting the distance to a target.
+
+Haste
+---
+
+A unit with haste can move and attack on the same turn that it was played.
 
 Provide Xu
 ---
