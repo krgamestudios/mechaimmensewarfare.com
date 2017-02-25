@@ -29,3 +29,8 @@ Cruiser;3;Mecha;Haste (this mecha can move and attack on the same turn it's play
 Corvette;4;Mecha;Haste (this mecha can move and attack on the same turn it's played).;4;4
 Cruise Missle;1;Mecha;Haste (this mecha can move and attack on the same turn it's played). After this mecha attacks, destroy it.;4;1
 Preparations;;Command;One target mecha you control gains haste this turn (that mecha can move and attack as normal if you played it this turn).;;
+Weapons Cache;;Trigger Command;Draw two cards.;;
+Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including radio towers).;;
+Jury Rigging;;Trigger Command;You may play a mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn).;;
+Heavy Fire;;Trigger Command;Remove all Armour counters from one target mecha.;;
+Recall;;Trigger Command;Return one target mecha to it's owner's hand.;;

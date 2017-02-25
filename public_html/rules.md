@@ -13,7 +13,11 @@ Mechas are cards which act as playing pieces. A mecha card has three numbers dow
 
 Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the discard pile. Some commands may have unique requirements, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
 
-When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded. A unit cannot move or attack in the same turn it was played, unless it has haste.
+Trigger commands are a unique type of command. If a trigger command is placed into a player's damage zone, it's ability takes effect immediately. Otherwise they can be played from a player's hand like a normal command.
+
+When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded.
+
+A unit cannot move or attack in the same turn it was played, unless it has haste.
 
 Phases of a Turn
 ===
@@ -96,3 +100,7 @@ Mulligans
 
 When you first draw five cards at the beginning of the game, you have the option to "mulligan", where you set aside your hand, draw five new cards, and shuffle your original hand into your deck. You can only do this once, if you are unhappy with your opening hand.
 
+Hand Size
+---
+
+At the end of your turn, if you have more than five cards in hand, you must discard cards, one at a time, until you are left with five cards in hand.
