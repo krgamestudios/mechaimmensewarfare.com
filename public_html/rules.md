@@ -13,7 +13,7 @@ Mechas are cards which act as playing pieces. A mecha card has three numbers dow
 
 Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the discard pile. Some commands may have unique requirements, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
 
-When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded.
+When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded. A unit cannot move or attack in the same turn it was played.
 
 Phases of a Turn
 ===
