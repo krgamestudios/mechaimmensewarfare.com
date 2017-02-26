@@ -21,7 +21,7 @@ Marching Orders;;Command;One target mecha you control can move an extra space th
 Ramp Orders;;Command;One target mecha you control gains Reach this turn (That unit may attack units with flight).;;
 Virus;;Command;Sacrifice a Tower you control. If you do, one target mecha an opponent controls can't attack this turn.;;
 Tunnel Warfare;;Command;Discard another card from your hand. If you do, one target mecha you control can move an extra space this turn.;;
-Road Works;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this card, neighbouring mechas gain Speed 3 this turn (those unit may move up to three spaces this turn).;;
+Road Works;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this card, mechas on or adjacent to this command gain Speed 3 this turn (those units may move up to three spaces this turn).;;
 Espionage;;Command;Look at one target player's hand, then draw a card.;;
 Ironhide;;Command;Put two Armour counters on one target mecha you control in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
 Skipper;2;Mecha;Haste (this mecha can move and attack on the same turn it's played).;2;2
@@ -34,3 +34,8 @@ Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including radio 
 Jury Rigging;;Trigger Command;You may play a mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn).;;
 Heavy Fire;;Trigger Command;Remove all Armour counters from one target mecha.;;
 Recall;;Trigger Command;Return one target mecha to it's owner's hand.;;
+Hidden Cache;;Command;If you discard this card, draw three cards.;;
+EMP Blast;;Command;Destroy all towers (including mecha towers).;;
+Sabotage;;Command;Sacrifice a tower you control. Destroy one target mecha.;;
+Reparations;;Command;If a mecha you control is destroyed, destroy one target mecha.;;
+The Vice;3;Mecha;As long as this unit is in play, each player's maximum hand size is reduced by 2.;4;4

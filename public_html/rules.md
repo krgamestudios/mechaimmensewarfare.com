@@ -100,7 +100,7 @@ Mulligans
 
 When you first draw five cards at the beginning of the game, you have the option to "mulligan", where you set aside your hand, draw five new cards, and shuffle your original hand into your deck. You can only do this once, if you are unhappy with your opening hand.
 
-Hand Size
+Maximum Hand Size
 ---
 
-At the end of your turn, if you have more than five cards in hand, you must discard cards, one at a time, until you are left with five cards in hand.
+At the end of your turn, if you have more cards in hand than your maximum hand size, then you must discard cards, one at a time, until you are left with no more than your maximum hand size. The normal maximum hand size is 5.
