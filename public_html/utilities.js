@@ -48,6 +48,21 @@ var printCSV = function (fname, node) {
     if (request.status === 200) {
       node.innerHTML = "";
 
+      //build the search bar
+      var div = document.createElement("DIV");
+      div.className = "ui action input";
+      var input = document.createElement("INPUT");
+      input.id = "searchInput";
+      input.type = "text";
+      input.placeholder = "Search...";
+      div.appendChild(input);
+      var button = document.createElement("BUTTON");
+      button.id = "searchButton";
+      button.className = "ui button";
+      button.innerHTML = "Search";
+      button.onclick = searchTable;
+      div.appendChild(button);
+
       var table = parseCSVToTable(request.responseText, ';');
       table.id = "table";
       table.className = "ui celled table unstackable";
@@ -56,6 +71,7 @@ var printCSV = function (fname, node) {
       scrollable.className = "scrollable";
 
       scrollable.appendChild(table);
+      node.appendChild(div);
       node.appendChild(scrollable);
 
       var sorter = tsorter.create("table");
@@ -113,3 +129,20 @@ var parseCSVToTable = function(csvText, delim) {
   return table;
 }
 
+function searchTable() {
+  var input = document.getElementById("searchInput");
+  var table = document.getElementById("table");
+
+  var filter = input.value.toUpperCase();
+  var trows = table.getElementsByTagName("tr");
+
+  for (var i = 1; i < trows.length; i++) {
+    var tds = trows[i].cells;
+    trows[i].style.display = "none";
+    for (var j = 0; j < tds.length; j++) {
+      if (tds[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+        trows[i].style.display = "";
+      }
+    }
+  }
+}
