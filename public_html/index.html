@@ -15,20 +15,14 @@
       <h1 class="ui header centered">Mecha Game Rules</h1>
     </header>
 
-      <!-- navigation buttons -->
-    <div class="ui container center aligned">
-      <button class="ui button centered" onClick="printMarkdown('rules.md', document.getElementById('content'));">
-        Rules
-      </button>
-      <button class="ui button centered" onClick="printCSV('cards.csv', document.getElementById('content'));">
-        Cards
-      </button>
-      <button class="ui button centered" onClick="printCSV('card_concepts.csv', document.getElementById('content'));">
-        Card Concepts
-      </button>
-      <button class="ui button centered" onClick="printHTML('feedback.html', document.getElementById('content'))">
-        Feedback
-      </button>
+    <!-- navigation buttons -->i
+    <div class="ui container">
+        <div class="four ui buttons">
+          <button class="ui button centered" style="padding-left:0;padding-right:0;" onClick="printMarkdown('rules.md', document.getElementById('content'));">Rules</button>
+          <button class="ui button centered" style="padding-left:0;padding-right:0;" onClick="printCSV('cards.csv', document.getElementById('content'));">Cards</button>
+          <button class="ui button centered" style="padding-left:0;padding-right:0;" onClick="printCSV('card_concepts.csv', document.getElementById('content'));">Card Concepts</button>
+          <button class="ui button centered" style="padding-left:0;padding-right:0;" onClick="printHTML('feedback.html', document.getElementById('content'))">Feedback</button>
+        </div>
     </div>
 
     <!-- body content -->
