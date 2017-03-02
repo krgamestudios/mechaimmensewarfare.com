@@ -1,4 +1,13 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
-Mortar Rain;;Command;Destroy one target Mecha.;;
-Preparations;;Command;You may start the game with this card in your hand. Destroy one target mecha.;;
-Radio Silence;;Command;Destroy all towers (including mecha towers). Each player reveals their hands and discards all towers (including mecha towers).;;
+Rampart;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move. Adjacent Mechas you control can't be targeted by attacks.;0;2
+Turret;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move.;4;2
+Engineered Earthquake;;Command;Deal 2 damage to all non-flying Mechas (Armour counters protect against this damage as normal).;;
+Interdictor;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of all enemy Mechas is increased by 1 (including Mechas in their hand).;1;1
+Potshot;3;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
+Gutshot;3;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
+Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
+Headshot;;Command;Return two Commands from your graveyard to your hand.;;
+Signal Jamming;;Command;One target player discards their hand.;;
+Nuclear Blast;;Command;Destroy all units (Mechas and Towers). Each player discards their hand. Each player puts the top 5 cards of their deck into their graveyard.;;
+Preplanning;;Command;Search you deck for 5 Towers, and place them on the battlefield. You can't play Towers for the rest of the game.;;
+Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
