@@ -1,4 +1,6 @@
-var printHTML = function(fname, node) {
+//PARAM: fname = file to load with an ajax request
+//PARAM: node = DOM node to store the resulting data
+function printHTML(fname, node) {
   var request = new XMLHttpRequest();
   request.open('GET', fname, true);
   request.onreadystatechange = function() {
@@ -10,15 +12,16 @@ var printHTML = function(fname, node) {
       node.innerHTML = request.responseText;
     }
     else {
-      console.log("printMarkdown status:", request.status);
+      console.log("printHTML status:", request.status);
       return 1;
     }
   }
   request.send();
 }
 
-
-var printMarkdown = function(fname, node) {
+//PARAM: fname = file to load with an ajax request
+//PARAM: node = DOM node to store the resulting data
+function printMarkdown(fname, node) {
   var request = new XMLHttpRequest();
   request.open('GET', fname, true);
   request.onreadystatechange = function() {
@@ -37,7 +40,9 @@ var printMarkdown = function(fname, node) {
   request.send();
 }
 
-var printCSV = function (fname, node) {
+//PARAM: fname = file to load with an ajax request
+//PARAM: node = DOM node to store the resulting data
+function printCSV(fname, node) {
   var request = new XMLHttpRequest();
   request.open('GET', fname, true);
   request.onreadystatechange = function() {
@@ -48,21 +53,6 @@ var printCSV = function (fname, node) {
     if (request.status === 200) {
       node.innerHTML = "";
 
-      //build the search bar
-      var div = document.createElement("DIV");
-      div.className = "ui action input";
-      var input = document.createElement("INPUT");
-      input.id = "searchInput";
-      input.type = "text";
-      input.placeholder = "Search...";
-      div.appendChild(input);
-      var button = document.createElement("BUTTON");
-      button.id = "searchButton";
-      button.className = "ui button";
-      button.innerHTML = "Search";
-      button.onclick = searchTable;
-      div.appendChild(button);
-
       var table = parseCSVToTable(request.responseText, ';');
       table.id = "table";
       table.className = "ui celled table unstackable";
@@ -71,7 +61,7 @@ var printCSV = function (fname, node) {
       scrollable.className = "scrollable";
 
       scrollable.appendChild(table);
-      node.appendChild(div);
+      node.appendChild(buildSearchBar(searchTable, "table"));
       node.appendChild(scrollable);
 
       var sorter = tsorter.create("table");
@@ -84,7 +74,9 @@ var printCSV = function (fname, node) {
   request.send();
 }
 
-var parseCSVToTable = function(csvText, delim) {
+//PARAM: csvText = CSV text to be parsed, with delim as the delimiter
+//PARAM: delim = delimiter of csvText
+function parseCSVToTable(csvText, delim) {
   //split
   var allLines = csvText.split(/\r\n|\n/);
 
@@ -129,19 +121,42 @@ var parseCSVToTable = function(csvText, delim) {
   return table;
 }
 
-function searchTable() {
-  var input = document.getElementById("searchInput");
-  var table = document.getElementById("table");
+//PARAM: searchCallback = function to call on search
+//  ARG: inputValue = text to search for
+//  ARG: callbackArg (optional) = callbackArg passed to buildSearchBar
+//PARAM: callbackArg (optional) = passed to searchCallback as 2nd arg
+function buildSearchBar(searchCallback, callbackArg) {
+  //build the search bar
+  var div = document.createElement("DIV");
+  div.className = "ui action input";
+  var input = document.createElement("INPUT");
+  input.id = "searchInput";
+  input.type = "text";
+  input.placeholder = "Search...";
+  div.appendChild(input);
+  var button = document.createElement("BUTTON");
+  button.id = "searchButton";
+  button.className = "ui button";
+  button.innerHTML = "Search";
+  button.onclick = () => { searchCallback(input.value, callbackArg); };
+  div.appendChild(button);
+  return div;
+}
 
-  var filter = input.value.toUpperCase();
-  var trows = table.getElementsByTagName("tr");
+//PARAM: searchText = text to search for
+//PARAM: tableID = id of table to search
+function searchTable(searchText, tableID) {
+  var table = document.getElementById(tableID);
 
-  for (var i = 1; i < trows.length; i++) {
-    var tds = trows[i].cells;
-    trows[i].style.display = "none";
-    for (var j = 0; j < tds.length; j++) {
-      if (tds[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
-        trows[i].style.display = "";
+  var filter = searchText.toUpperCase();
+  var tRows = table.getElementsByTagName("tr");
+
+  for (var i = 1; i < tRows.length; i++) {
+    var tdArray = tRows[i].cells;
+    tRows[i].style.display = "none";
+    for (var j = 0; j < tdArray.length; j++) {
+      if (tdArray[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tRows[i].style.display = "";
       }
     }
   }
