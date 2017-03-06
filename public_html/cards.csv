@@ -12,7 +12,7 @@ Bot-a-pult;2;Mecha;Reach (This unit may attack units with Flight). Sacrifice a n
 Stonewall;1;Mecha;This Mecha can't attack. When this Mecha moves, it can't move next turn.;0;6
 Turtle;2;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha may not attack and move in the same turn.;2;3
 Dragon;4;Mecha;Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha may not attack and move in the same turn.;4;4
-Jager;6;Mecha;Armour 3 (This unit enters the battlefield with three Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Reach (This unit may attack units with Flight).;6;6
+Jager;6;Singleton Mecha;Armour 3 (This unit enters the battlefield with three Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Reach (This unit may attack units with Flight).;6;6
 Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach).;1;1
 Wasp Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target can't attack next turn.;1;1
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target must move next turn if possible.;1;1
@@ -31,7 +31,7 @@ Cruise Missle;1;Mecha;Haste (this Mecha can move and attack on the same turn it'
 Preparations;;Command;One target Mecha you control gains haste this turn (that Mecha can move and attack as normal if you played it this turn).;;
 Weapons Cache;;Trigger Command;Draw two cards.;;
 Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including Towers).;;
-Jury Rigging;;Trigger Command;You may play a Mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn unless it jas haste).;;
+Jury Rigging;;Trigger Command;You may play a Mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn unless it has haste).;;
 Heavy Fire;;Trigger Command;Remove all Armour counters from one target unit.;;
 Recall;;Trigger Command;Return one target Mecha to it's owner's hand.;;
 Hidden Cache;;Command;If you discard this card, draw three cards.;;
@@ -39,3 +39,13 @@ EMP Blast;;Command;Destroy all Towers (including Mecha Towers).;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
 Reparations;;Command;If a Mecha you control is destroyed, destroy one target Mecha.;;
 The Vice;3;Mecha;As long as this unit is in play, each player's maximum hand size is reduced by 2.;4;4
+Rampart;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move. Adjacent Mechas you control can't be targeted by attacks.;0;2
+Turret;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move.;4;2
+Engineered Earthquake;;Command;Deal 2 damage to all non-flying Mechas (Armour counters protect against this damage as normal).;;
+Interdictor;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of all enemy Mechas is increased by 1 (including Mechas in their hand).;1;1
+Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
+Potshot;3;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
+Gutshot;3;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
+Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
+Longshot;;Command;Return two Commands from your graveyard to your hand.;;
+Signal Jamming;;Command;One target player discards their hand.;;
