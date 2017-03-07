@@ -47,5 +47,5 @@ Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it 
 Potshot;3;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
 Gutshot;3;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
-Longshot;;Command;Return two Commands from your graveyard to your hand.;;
+Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Signal Jamming;;Command;One target player discards their hand.;;
