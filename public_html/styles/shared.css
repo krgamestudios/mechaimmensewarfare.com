@@ -34,6 +34,10 @@ thead {
 	font-weight: bold;
 }
 
+th {
+	min-width: 50px;
+}
+
 th:nth-child(1) {
 	min-width: 120px;
 }
