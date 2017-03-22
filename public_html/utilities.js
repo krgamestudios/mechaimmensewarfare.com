@@ -158,6 +158,8 @@ function buildSearchBar(searchCallback, callbackArg) {
   button.innerHTML = "Search";
   button.onclick = () => { searchCallback(input.value, callbackArg); };
   div.appendChild(button);
+  //hack
+  input.onkeypress = (e) => { if (e && e.keyCode == 13) { button.click(); } };
   return div;
 }
 
