@@ -66,3 +66,6 @@ Wind-Up Mouse;0;Mecha;(No abilities.);1;1
 Wind-Up Cat;1;Mecha;(No abilities.);2;2
 Wind-Up Dog;2;Mecha;(No abilities.);3;3
 Wind-Up Bull;3;Mecha;(No abilities.);4;4
+Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
+Reconnaissance;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Range 3 this turn.;;
+Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
