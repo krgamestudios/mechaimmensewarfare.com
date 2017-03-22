@@ -1,9 +1,6 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
 Radio Tower;;Basic Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn).;;2
 Radio Relay;0;Mecha Tower;(Radio Relay counts as a Mecha and a Tower. Play only one Tower card each turn.) Play this card only on a space with a Radio Tower. Destroy that tower. Provides 1u for each unit you control named Radio Relay (1 unit of bandwidth).;0;2
-Attack Vector;1;Mecha;(No abilities.);2;1
-Mega Bot;2;Mecha;(No abilities.);3;2
-Class Ganon;3;Mecha;(No abilities.);4;1
 Mod Bot;2;Mecha;Sacrifice an adjacent Mecha you control: add that unit's durability to this Mecha.;1;2
 Cap Gun;1;Mecha;Pierce (This unit ignores Armour counters). Reach (This unit may attack units with Flight).;1;1
 Shortbow;1;Mecha;Pierce (This unit ignores Armour counters). Range 2 (This unit may attack any target within two spaces).;1;1
@@ -37,7 +34,7 @@ Recall;;Trigger Command;Return one target Mecha to it's owner's hand.;;
 Hidden Cache;;Command;If you discard this card, draw three cards.;;
 EMP Blast;;Command;Destroy all Towers (including Mecha Towers).;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
-Reparations;;Command;If a Mecha you control is destroyed, destroy one target Mecha.;;
+Reparations;;Command;Play this command only when a mecha you control is destroyed. Destroy one target Mecha.;;
 The Vise;3;Mecha;As long as this unit is in play, each player's maximum hand size is reduced by 2.;4;4
 Rampart;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move. Adjacent Mechas you control can't be targeted by attacks.;0;2
 Turret;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move.;4;2
@@ -49,3 +46,23 @@ Gutshot;3;Mecha;When a player plays a command, they must sacrifice one Tower the
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
 Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Signal Jamming;;Command;One target player discards their hand.;;
+Nuclear Blast;;Singleton Command;Destroy all units (Mechas and Towers). Each player discards their hand. Put the top 5 cards of your deck into your graveyard.;;
+Preplanning;;Command;Search you deck for 3 Towers, and place them on the battlefield. You can't play Towers for the rest of the game.;;
+Rigged to Blow;;Command;Attach this Command to one target Mecha you control in your entry zone. When that unit is destroyed, deal 2 damage to the Mecha that attacked it.;;
+Interdiction;;Command;Cancel any one card. (When a player plays a card, you may play this card to prevent it's effects, and that card is discarded.);;
+Salvage;;Command;Sacrifice a Mecha you control. If you do, draw cards equal to it's durability.;;
+Drill Mole;2;Mecha;This Mecha can't be attacked by units that cost more than 2.;3;2
+Bear, The Unbreakable;;Pilot;When a Mecha piloted by Bear, The Unbreakable is destroyed, return that Mecha to your hand.;+0;+2
+Demolisher;1;Mecha;This Mecha may attack units you control. This Mecha can't attack your opponents. When this Mecha destroys a unit, it gains 1 durability. This Mecha's power is equal to it's durability.;0;1
+Jason "The Looks" Brannan;;Pilot;All players play with their hands revealed.;+1;-1
+Donna, The Swift;;Pilot;A Mecha piloted by Donna, The Swift has Speed 2. That Mecha can't move in any direction more than once per turn.;+1;+0
+Wind-Up Spider;1;Mecha;(No abilities.);2;1
+Wind-Up Koala;1;Mecha;(No abilities.);1;2
+Wind-Up Kangaroo;2;Mecha;(No abilities.);3;2
+Wind-Up Echidna;2;Mecha;(No abilities.);2;3
+Wind-Up Monkey;3;Mecha;(No abilities.);1;4
+Wind-Up Snake;3;Mecha;(No abilities.);4;1
+Wind-Up Mouse;0;Mecha;(No abilities.);1;1
+Wind-Up Cat;1;Mecha;(No abilities.);2;2
+Wind-Up Dog;2;Mecha;(No abilities.);3;3
+Wind-Up Bull;3;Mecha;(No abilities.);4;4
