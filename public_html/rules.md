@@ -1,5 +1,30 @@
 Fight your way across vast expanses, conquer enemy batallions, and survive in this world of immense mechas - wild combat machines commanded by the best pilots this side of the catastrophe.
 
+- [Basic Rules](#basic-rules)
+  * [Phases of a Turn](#phases-of-a-turn)
+- [Types of Cards](#types-of-cards)
+  * [Towers](#towers)
+  * [Mechas](#mechas)
+  * [Commands](#commands)
+  * [Pilots](#pilots)
+- [Types of Counters](#types-of-counters)
+  * [Durability](#durability)
+  * [Armour](#armour)
+  * [Time](#time)
+- [List of Keyword Mechanics](#list-of-keyword-mechanics)
+  * [Armour X](#armour-x)
+  * [Pierce](#pierce)
+  * [Flight](#flight)
+  * [Reach](#reach)
+  * [Speed X](#speed-x)
+  * [Range X](#range-x)
+  * [Haste](#haste)
+  * [Provide Xu](#provide-xu)
+- [Other Rules and Corner Case Rulings](#other-rules-and-corner-case-rulings)
+  * [Mulligans](#mulligans)
+  * [Maximum Hand Size](#maximum-hand-size)
+  * [Pilot Idiocy](#pilot-idiocy)
+
 Basic Rules
 ===
 
