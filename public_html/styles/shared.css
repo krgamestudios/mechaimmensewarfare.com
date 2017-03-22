@@ -58,3 +58,10 @@ footer {
 .ascend:after{
 	content: "\25BC";
 }
+
+/* device only features */
+@media screen and (min-width: 480px) {
+	.mobileOnly {
+		display: none;
+	}
+}

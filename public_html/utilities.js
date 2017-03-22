@@ -1,4 +1,22 @@
-//PARAM: fname = file to load with an ajax request
+//global markdown object and configuration
+var markdown = window.markdownit()
+  //configure for semantic-style visibility controls
+  .use(window.markdownitContainer, 'mobileOnly', {
+    validate: function(params) {
+      return params.trim().match(/^mobileOnly$/);
+    },
+    render: function (tokens, idx) {
+      if (tokens[idx].nesting === 1) {
+        //opening tag
+        return '<div class="mobileOnly">';
+      } else {
+        // closing tag
+        return '</div>';
+      }
+    }
+  });
+
+//PARAM: fname = file to load with an ajax requesti
 //PARAM: node = DOM node to store the resulting data
 function printHTML(fname, node) {
   var request = new XMLHttpRequest();
@@ -30,7 +48,7 @@ function printMarkdown(fname, node) {
     }
 
     if (request.status === 200) {
-      node.innerHTML = markdown.toHTML(request.responseText);
+      node.innerHTML = markdown.render(request.responseText);
     }
     else {
       console.log("printMarkdown status:", request.status);

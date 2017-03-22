@@ -1,5 +1,7 @@
 Fight your way across vast expanses, conquer enemy batallions, and survive in this world of immense mechas - wild combat machines commanded by the best pilots this side of the catastrophe.
 
+::: mobileOnly
+
 - [Basic Rules](#basic-rules)
   * [Phases of a Turn](#phases-of-a-turn)
 - [Types of Cards](#types-of-cards)
@@ -24,6 +26,8 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
   * [Mulligans](#mulligans)
   * [Maximum Hand Size](#maximum-hand-size)
   * [Pilot Idiocy](#pilot-idiocy)
+
+:::
 
 Basic Rules
 ===
