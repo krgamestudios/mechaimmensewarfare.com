@@ -24,7 +24,7 @@ Ironhide;;Command;Put two Armour counters on one target Mecha you control in you
 Skipper;2;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;2;2
 Cruiser;3;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;3;3
 Corvette;4;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;4;4
-Cruise Missle;1;Mecha;Haste (this Mecha can move and attack on the same turn it's played). After this Mecha attacks, destroy it.;4;1
+Cruise Missle;1;Mecha;Haste (this Mecha can move and attack on the same turn it's played). After this Mecha attacks, destroy it.;6;1
 Preparations;;Command;One target Mecha you control gains haste this turn (that Mecha can move and attack as normal if you played it this turn).;;
 Weapons Cache;;Trigger Command;Draw two cards.;;
 Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including Towers).;;
@@ -41,8 +41,8 @@ Turret;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card 
 Engineered Earthquake;;Command;Deal 2 damage to all Mechas without Flight (Armour counters protect against this damage as normal).;;
 Signal Blocker;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of adjacent Mechas is increased by 1.;1;1
 Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
-Potshot;3;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
-Gutshot;3;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
+Potshot;2;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
+Gutshot;2;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
 Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Signal Jamming;;Command;One target player discards their hand.;;

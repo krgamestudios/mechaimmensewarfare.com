@@ -1,1 +1,3 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
+Resonant Chord;5;Mecha;Discard a Mecha with the same name as this Mecha: Gain control of all adjacent units.;5;3
+Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of all units you own.;0;5
