@@ -26,6 +26,7 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
   * [Mulligans](#mulligans)
   * [Maximum Hand Size](#maximum-hand-size)
   * [Pilot Idiocy](#pilot-idiocy)
+  * [Duplicate Phase Skipping](#duplicate-phase-skipping)
 
 :::
 
@@ -155,3 +156,8 @@ Pilot Idiocy
 ---
 
 Some pilot abilities and durability modifiers may instantly destroy a mecha as soon as it's attached. In this event, the pilot's and mecha's abilities take effect for a moment before the mecha is destroyed. Therefore, in the case of Jason "The Looks" Brannan being attached to a mecha with 1 durability, both players reveal their hands and allow their opponent to take notes as needed, then the mecha is destroyed, and finally both players hide their hands again.
+
+Duplicate Phase Skipping
+---
+
+Some abilities may require you to skip a phase of your turn, or your entire turn to activate. If you do, you cannot activate multiple abilities with a single action this way. Therefore, in the case of having multiple copies of Pheonix in your graveyard, you may only skip your draw steps one at a time, and return one Pheonix to your hand at a time.
