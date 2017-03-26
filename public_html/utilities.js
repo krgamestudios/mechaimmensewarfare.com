@@ -20,7 +20,7 @@ var markdown = window.markdownit()
 //PARAM: node = DOM node to store the resulting data
 function printHTML(fname, node) {
   var request = new XMLHttpRequest();
-  request.open('GET', fname, true);
+  request.open('POST', fname, true);
   request.onreadystatechange = function() {
     if (request.readyState !== 4) {
       return 0;
@@ -41,7 +41,7 @@ function printHTML(fname, node) {
 //PARAM: node = DOM node to store the resulting data
 function printMarkdown(fname, node) {
   var request = new XMLHttpRequest();
-  request.open('GET', fname, true);
+  request.open('POST', fname, true);
   request.onreadystatechange = function() {
     if (request.readyState !== 4) {
       return 0;
@@ -62,7 +62,7 @@ function printMarkdown(fname, node) {
 //PARAM: node = DOM node to store the resulting data
 function printCSV(fname, node) {
   var request = new XMLHttpRequest();
-  request.open('GET', fname, true);
+  request.open('POST', fname, true);
   request.onreadystatechange = function() {
     if (request.readyState !== 4) {
       return 0;

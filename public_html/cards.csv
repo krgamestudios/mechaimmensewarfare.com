@@ -2,9 +2,9 @@ Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
 Radio Tower;;Basic Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn).;;2
 Radio Relay;0;Mecha Tower;(Radio Relay counts as a Mecha and a Tower. Play only one Tower card each turn.) Play this card only on a space with a Radio Tower. Destroy that tower. Provides 1u for each unit you control named Radio Relay (1 unit of bandwidth).;0;2
 Mod Bot;2;Mecha;Sacrifice an adjacent Mecha you control: add that unit's durability to this Mecha.;1;2
-Cap Gun;1;Mecha;Pierce (This unit ignores Armour counters). Reach (This unit may attack units with Flight).;1;1
-Shortbow;1;Mecha;Pierce (This unit ignores Armour counters). Range 2 (This unit may attack any target within two spaces).;1;1
-Longbow;2;Mecha;Pierce (This unit ignores Armour counters). Range 3 (This unit may attack any target within three spaces).;1;1
+Cap Gun;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Reach (This unit may attack units with Flight).;1;1
+Shortbow;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 2 (This unit may attack any target within two spaces).;1;1
+Longbow;2;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 3 (This unit may attack any target within three spaces).;1;1
 Bot-a-pult;2;Mecha;Reach (This unit may attack units with Flight). Sacrifice an adjacent Mecha you control: this Mecha gains Range 3 this turn (This unit may attack any target within three spaces this turn).;2;2
 Stonewall;1;Mecha;This Mecha can't attack. When this Mecha moves, it can't move next turn.;0;6
 Turtle;2;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha may not attack and move in the same turn.;2;3
