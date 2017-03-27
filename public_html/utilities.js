@@ -1,5 +1,9 @@
 //global markdown object and configuration
 var markdown = window.markdownit()
+
+  //allow HTML-style comments
+  .use(window.markdownitInlineComments)
+
   //configure for semantic-style visibility controls
   .use(window.markdownitContainer, 'mobileOnly', {
     validate: function(params) {
@@ -8,7 +12,7 @@ var markdown = window.markdownit()
     render: function (tokens, idx) {
       if (tokens[idx].nesting === 1) {
         //opening tag
-        return '<div class="mobileOnly">';
+        return '<div class="ui mobile only grid">';
       } else {
         // closing tag
         return '</div>';

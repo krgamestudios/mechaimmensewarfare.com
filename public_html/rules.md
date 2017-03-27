@@ -2,6 +2,8 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
 
 ::: mobileOnly
 
+<!-- toc -->
+
 - [Basic Rules](#basic-rules)
   * [Phases of a Turn](#phases-of-a-turn)
 - [Types of Cards](#types-of-cards)
@@ -27,6 +29,8 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
   * [Maximum Hand Size](#maximum-hand-size)
   * [Pilot Idiocy](#pilot-idiocy)
   * [Duplicate Phase Skipping](#duplicate-phase-skipping)
+
+<!-- tocstop -->
 
 :::
 

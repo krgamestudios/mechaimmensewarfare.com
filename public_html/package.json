@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "markdown-toc -i rules.md"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "markdown-it": "^8.3.1",
     "markdown-it-container": "^2.0.0",
+    "markdown-it-inline-comments": "^1.0.1",
     "markdown-toc": "^1.1.0"
   }
 }
