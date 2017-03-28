@@ -41,7 +41,7 @@ The goal of the game is to attack your opponent directly five times. Each time a
 
 The game takes place on a 5*7 grid (wider than it is long). Players start the game with a deck of 40 cards, with no more than 3 copies of any one card, except for Basics (no limit) and Singletons (maximum of 1). Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
 
-When combat between mechas is initiated, the attacker's power is subtracted from the defender's durability. When a mecha's durability reaches zero, it is destroyed and discarded.
+When combat between units is initiated, the attacker's power is subtracted from the defender's durability. When a unit's durability reaches zero, it is destroyed and discarded.
 
 A unit cannot move or attack in the same turn it was played, unless it has haste.
 
@@ -96,7 +96,7 @@ Armour counters protect a unit's durability. Each time a unit is attacked, if it
 Time
 ---
 
-Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter at the beginning of your turn, then remove one time counter.
+Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter on it at the beginning of your turn, then remove one time counter.
 
 List of Keyword Mechanics
 ===
