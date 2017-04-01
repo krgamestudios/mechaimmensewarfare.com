@@ -24,7 +24,7 @@ Ironhide;;Command;Put two Armour counters on one target Mecha you control in you
 Skipper;2;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;2;2
 Cruiser;3;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;3;3
 Corvette;4;Mecha;Haste (this Mecha can move and attack on the same turn it's played).;4;4
-Cruise Missle;1;Mecha;Haste (this Mecha can move and attack on the same turn it's played). After this Mecha attacks, destroy it.;6;1
+Cruise Missle;1;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Pierce (This unit ignores Armour counters when attacking). After this Mecha attacks, destroy it.;4;1
 Preparations;;Command;One target Mecha you control gains haste this turn (that Mecha can move and attack as normal if you played it this turn).;;
 Weapons Cache;;Trigger Command;Draw two cards.;;
 Drone Strike;;Trigger Command;Deal 2 damage to any target unit (including Towers).;;
@@ -69,3 +69,13 @@ Wind-Up Bull;3;Mecha;(No abilities.);4;4
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Reconnaissance;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Range 3 this turn.;;
 Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
+Radioless Carrier;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Speed 2 (this mecha may move up to two spaces each turn). This Mecha can't move and loses Flight unless it's piloted.;2;2
+Challenger Tank;3;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Pierce (This unit ignores Armour counters when attacking).;2;2
+Succubus;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Pierce (This unit ignores Armour counters when attacking).;2;1
+Chinashop Bull;3;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha must move and attack each turn. If it can't, destroy it.;3;3
+Bugzapper;2;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Reach (This unit may attack units with Flight).;3;1
+Resonant Chord;5;Mecha;Discard a Mecha with the same name as this Mecha: Gain control of all adjacent units.;5;3
+Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of all units you own.;0;5
+Pheonix;5;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). While this Mecha is in your graveyard, you may skip your draw step. If you do, return this Mecha from your graveyard to your hand.;3;3
+Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
+Fallout Shelter;;Command;If this card is put into your graveyard from your deck, shuffle your graveyard into your deck. Otherwise, draw a card.;;

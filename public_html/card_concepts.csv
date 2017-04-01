@@ -1,10 +1,12 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
-Resonant Chord;5;Mecha;Discard a Mecha with the same name as this Mecha: Gain control of all adjacent units.;5;3
-Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of all units you own.;0;5
-Pheonix;5;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). While this Mecha is in your graveyard, you may skip your draw step. If you do, return this Mecha from your graveyard to your hand.;3;3
-Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
-Fallout Shelter;;Command;If this card is put into your graveyard from your deck, shuffle your graveyard into your deck. Otherwise, draw a card.;;
-Auto-Repairer;3;Mecha;When this Mecha is attacked, if it survived, it gains 1 durability.;3;2
 Drone Swarm;3;Mecha;This Mecha's power is equal to the number of Mechas you control.;0;1
-Radioless Carrier;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Speed 2 (this mecha may move up to two spaces each turn). This Mecha can't move and loses Flight unless it's piloted.;2;2
-Challenger Tank;3;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Pierce (This unit ignores Armour counters when attacking).;2;2
+Guard Dog;2;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Range 3 (This unit may attack any target within three spaces).;1;1
+Signal Booster;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of adjacent Mechas is decreased by 1.;1;1
+Auto-Repairer;3;Mecha;After this Mecha is attacked, if it survived, it gains 1 durability.;3;2
+Trench Rats;4;Mecha;When this Mecha enters the battlefield, you may put another Mecha with the same name as this Mecha from your hand into your entry zone.;1;1
+Unemployment;;Command;Destroy one target pilot.;;
+Spectre;2;Mecha;This Mecha's power and durability are reduced by the number of cards in your hand.;5;5
+Ghost;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). If you have no cards in your hand, this Mecha gains +4  power.;0;1
+Construction Crew;5;Mecha;When this Mecha enters the battlefield, search your deck for two Towers and put them into your hand. Then shuffle your deck.;3;3
+Admiral Grace;;Pilot;Piloted Mechas you control gain +1 power.;+0;+0
+Ada, The Ingenious;;Pilot;A Mecha piloted by Ada, The Ingenious can't be targeted by your opponents.;+0;+2
