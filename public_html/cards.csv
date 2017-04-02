@@ -79,3 +79,13 @@ Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of a
 Pheonix;5;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). While this Mecha is in your graveyard, you may skip your draw step. If you do, return this Mecha from your graveyard to your hand.;3;3
 Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
 Fallout Shelter;;Command;If this card is put into your graveyard from your deck, shuffle your graveyard into your deck. Otherwise, draw a card.;;
+Guard Dog;2;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Speed 2 (this mecha may move up to two spaces each turn).;1;1
+Auto-Repairer;3;Mecha;After this Mecha is attacked, if it survived, it gains 1 durability.;3;2
+Trench Rats;4;Mecha;When this Mecha enters the battlefield, you may put another Mecha with the same name as this Mecha from your hand into your entry zone.;1;1
+Unemployment;;Command;Destroy one target pilot.;;
+Spectre;2;Mecha;This Mecha's power and durability are reduced by the number of cards in your hand.;5;5
+Ghost;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). If you have no cards in your hand, this Mecha gains +4  power.;0;1
+Construction Crew;5;Mecha;When this Mecha enters the battlefield, search your deck for two Towers and put them into your hand. Then shuffle your deck.;3;3
+Admiral Grace;;Pilot;Piloted Mechas you control gain +1 power.;+0;+0
+Ada, The Ingenious;;Pilot;A Mecha piloted by Ada, The Ingenious can't be targeted by your opponents.;+0;+2
+Sky Whale;6;Singleton Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;4;4
