@@ -107,5 +107,5 @@ Golden Key;;Command;Attach this Command to a Mecha you control in your entry zon
 Turn The Key;;Command;All Mechas you control with the word "Wind-Up" in their name gain +1 power, and cost 1 less (costs can't be less than 0).;;
 Thunder Eel;4;Mecha;This Mecha may attack twice per turn.;2;2
 Spinning Top;3;Mecha;When this Mecha moves, shuffle all player's decks.;3;3
-Dig For Answers;;Command;Draw three cards, then put two cards from your hand on top of your library.;;
+Dig For Answers;;Singleton Command;Draw three cards, then put two cards from your hand on top of your library.;;
 Camouflage;;Command;Attach this Command to one target Mecha you control in your entry zone, then choose a name of a Mecha on the battlefield. The target Mecha's name becomes the name of your choice as long as this Command is attached.;;
