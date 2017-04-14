@@ -1,16 +1,1 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
-Bug Swarm;3;Mecha;This Mecha's power is equal to the number of Mechas you control.;0;1
-Signal Booster;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of adjacent Mechas is decreased by 1 (a bandwidth cost can't be less than 0).;1;1
-Lazer Shark;4;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;1;1
-Raining Cats And Dogs;;Command;Search you deck for a card with the word "Cat" in it's name. Then, search your deck for a card with the word "Dog" in it's name. Put those cards into your hand, then shuffle your deck.;;
-Pack Cat;3;Mecha;This Mecha gains +1 power for each other Mecha that you control with the word "Pack" in it's name.;1;3
-Pack Dog;3;Mecha;This Mecha gains +1 power for each other Mecha that you control with the word "Pack" in it's name.;1;3
-What A Load;;Command;Search your deck for two cards with the word "Bull" in their names. Put those cards into your hand, then shuffle your deck.;;
-Running Of The Bulls;;Command;Deal damage to one target Mecha equal to the total power of all Mechas that you control with the word "Bull" in their names.;;
-Electric Eel;2;Mecha;Other Mechas with the word "Eel" in their names that you control have +1 power.;1;1
-Slippery Eel;2;Mecha;When this Mecha enters the battlefield, other Mechas with the word "Eel" in their names that you control gain +1 durability.;1;1
-Drone Nest;;Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). When this Tower takes damage, search your deck for a Mecha with the word "Drone" in it's name, and play it in your entry zone. Then, shuffle your deck. Mechas you control with the word "Drone" in their name gain +1 power.;;2
-Orbiter;1;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). This Mecha can only attack units with Flight.;1;2
-Gambit;;Command;Each player discards a card, then draws a card.;;
-Gamble;;Command;Each player discards a card from their hand. Then, choose a player at random. That player draws a card for each card discarded this turn.;;
-Shiftformers, Mechas In Disguise;4;Mecha;Destroy this Mecha: place a Mecha from you hand that costs three or less on this Mecha's space.;1;2
