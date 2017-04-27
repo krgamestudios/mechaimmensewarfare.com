@@ -69,7 +69,7 @@ Wind-Up Bull;3;Mecha;(No abilities.);4;4
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Reconnaissance;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Range 3 this turn.;;
 Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
-Radioless Carrier;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Speed 2 (this mecha may move up to two spaces each turn). This Mecha can't move and loses Flight unless it's piloted.;2;2
+Radioless Carrier;0;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Speed 2 (this mecha may move up to two spaces each turn). This Mecha can't moveor attack and loses Flight unless it's piloted.;2;2
 Challenger Tank;3;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Pierce (This unit ignores Armour counters when attacking).;2;2
 Succubus;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Pierce (This unit ignores Armour counters when attacking).;2;1
 Chinashop Bull;3;Mecha;Haste (this Mecha can move and attack on the same turn it's played). Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha must move and attack each turn. If it can't, destroy it.;3;3

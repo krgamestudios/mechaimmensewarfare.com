@@ -1,1 +1,7 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
+Grace's Rally Cry;;Command;Search your deck for two Pilots with different names, and put them into your hand. Then, shuffle your deck.;;
+Bear's Rally Cry;;Command;Return up to two pilots with different names from your graveyard to your hand.;;
+Ada's Rally Cry;;Command;Attach this Command to a Pilot you control. Play with the top card of your deck revealed. If it's a Mecha, you may play it.;;
+Donna's Rally Cry;;Command;Attach this Command to a Pilot you control. All Pilots you control gain "The piloted Mecha gains +2 power".;;
+Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. That Pilot loses all abilities (including alterations to cost, power and durability).;;
+Frequency Modulator;2;Mecha;This Mecha's power is equal to your remaining bandwidth.;0;3
