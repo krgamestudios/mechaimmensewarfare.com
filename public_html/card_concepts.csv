@@ -5,3 +5,6 @@ Ada's Rally Cry;;Command;Attach this Command to a Pilot you control. Play with t
 Donna's Rally Cry;;Command;Attach this Command to a Pilot you control. All Pilots you control gain "The piloted Mecha gains +2 power".;;
 Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. That Pilot loses all abilities (including alterations to cost, power and durability).;;
 Frequency Modulator;2;Mecha;This Mecha's power is equal to your remaining bandwidth.;0;3
+Autonomous Cockpit;0;Singleton Mecha;(No abilities.);1;1
+Kamin;2;Mecha;Sacrifice this Mecha and an adjacent Mecha named "Autonomous Cockpit": Search your hand, deck and graveyard for a card named "Manly Combined Kamin" and place it on this space. Then shuffle your deck. Attach any pilots that you sacrificed this way to that Mecha.;2;3
+Manly Combined Kamin;3;Mecha;This Mecha can't be played. You may attach up to two pilots to this Mecha. You may skip your draw step to set this Mecha's durability to 6.;5;6
