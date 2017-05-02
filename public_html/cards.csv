@@ -5,6 +5,7 @@ Admiral Grace;;Pilot;Piloted Mechas you control gain +1 power.;+0;+0
 Attack Orders;;Command;One target Mecha you control can attack an extra time this turn.;;
 Autonomous Cockpit;0;Singleton Mecha;(No abilities.);0;2
 Auto-Repairer;3;Mecha;After this Mecha is attacked, if it survived, it gains 1 durability.;3;2
+Battlefield Salvage;;Command;Sacrifice a Mecha you control. If you do, draw cards equal to it's durability.;;
 Bear's Rally Cry;;Command;Return up to two Pilots with different names from your graveyard to your hand.;;
 Bear, The Unbreakable;;Pilot;When a Mecha piloted by Bear, The Unbreakable is destroyed, return that Mecha to your hand.;+0;+2
 Bot-a-pult;2;Mecha;Reach (This unit may attack units with Flight). Sacrifice an adjacent Mecha you control: this Mecha gains Range 3 this turn (This unit may attack any target within three spaces this turn).;2;2
@@ -24,7 +25,6 @@ Donna, The Swift;;Pilot;A Mecha piloted by Donna, The Swift has Speed 2. That Me
 Dragon;4;Mecha;Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). This Mecha may not attack and move in the same turn.;4;4
 Drill Mole;2;Mecha;This Mecha can't be attacked by units that cost more than 2.;3;2
 Drone Nest;;Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). When this Tower takes damage, you may search your deck for a Mecha with the word "Drone" in it's name and play it in your entry zone. If you do, shuffle your deck. Mechas you control with the word "Drone" in their name gain +1 power.;;2
-Orbital Strike;;Trigger Command;Deal 2 damage to one target unit ("units" include Mechas and Towers).;;
 Drone Swarm;3;Mecha;This Mecha's power is equal to the number of Mechas you control with the word "Drone" in their names.;0;1
 Electric Eel;2;Mecha;Other Mechas with the word "Eel" in their names have +1 power.;1;1
 EMP Blast;;Command;Destroy all Towers (including Mecha Towers).;;
@@ -60,6 +60,7 @@ Marching Orders;;Command;One target Mecha you control can move an extra space th
 Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of your turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
 Mod Bot;2;Mecha;Sacrifice an adjacent Mecha you control: add that unit's durability to this Mecha.;1;2
 Nuclear Blast;;Singleton Command;Destroy all units (Mechas and Towers). Each player discards their hand. Put the top 5 cards of your deck into your graveyard.;;
+Orbital Strike;;Trigger Command;Deal 2 damage to one target unit ("units" include Mechas and Towers).;;
 Orbiter;1;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). This Mecha can only attack units with Flight.;1;2
 Pack Cat;1;Mecha;This Mecha gains +1 power for each other Mecha you control with the word "Pack" in it's name.;1;1
 Pack Dog;3;Mecha;This Mecha gains +1 power for each other Mecha you control with the word "Pack" in it's name.;1;3
@@ -83,7 +84,6 @@ Road Works;;Command;Play this card on the battlefield with 2 time counters on it
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
-Battlefield Salvage;;Command;Sacrifice a Mecha you control. If you do, draw cards equal to it's durability.;;
 Scrapyard Salvage;;Command;Return up to two target Mechas from your graveyard to your hand.;;
 Shiftformers, Mechas In Disguise;4;Mecha;Sacrifice this Mecha: place a Mecha from you hand that costs three or less on this Mecha's space.;1;2
 Shortbow;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 2 (This unit may attack any target within two spaces).;1;1
