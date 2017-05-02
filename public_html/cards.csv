@@ -104,8 +104,18 @@ Gambit;;Command;Each player discards a card, then draws a card.;;
 Gamble;;Command;Each player discards a card from their hand. Then, choose a player at random. That player draws a card for each card discarded this turn.;;
 Shiftformers, Mechas In Disguise;4;Mecha;Destroy this Mecha: place a Mecha from you hand that costs three or less on this Mecha's space.;1;2
 Golden Key;;Command;Attach this Command to a Mecha you control in your entry zone. That Mecha loses all abilities, it's cost becomes 0, and it's name becomes "Wind-Up X", where "X"is it's base name.;;
-Turn The Key;;Command;All Mechas you control with the word "Wind-Up" in their name gain +1 power, and cost 1 less (costs can't be less than 0).;;
+Turn The Key;;Command;All Mechas you control with the word "Wind-Up" in their name gain +1 power and cost 1 less (costs can't be less than 0) until the end of turn.;;
 Thunder Eel;4;Mecha;This Mecha may attack twice per turn.;2;2
 Spinning Top;3;Mecha;When this Mecha moves, shuffle all player's decks.;3;3
 Dig For Answers;;Singleton Command;Draw three cards, then put two cards from your hand on top of your library.;;
 Camouflage;;Command;Attach this Command to one target Mecha you control in your entry zone, then choose a name of a Mecha on the battlefield. The target Mecha's name becomes the name of your choice as long as this Command is attached.;;
+Grace's Rally Cry;;Command;Search your deck for two Pilots with different names, and put them into your hand. Then, shuffle your deck.;;
+Bear's Rally Cry;;Command;Return up to two pilots with different names from your graveyard to your hand.;;
+Ada's Rally Cry;;Command;Attach this Command to a Pilot you control. Play with the top card of your deck revealed. If it's a Mecha, you may play it.;;
+Donna's Rally Cry;;Command;Attach this Command to a Pilot you control. All Pilots you control gain "The piloted Mecha gains +2 power".;;
+Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. That Pilot loses all abilities (including alterations to cost, power and durability).;;
+Frequency Modulator;2;Mecha;This Mecha's power is equal to your remaining bandwidth.;0;3
+Autonomous Cockpit;0;Singleton Mecha;(No abilities.);0;2
+Kamin;2;Mecha;Sacrifice this Mecha and an adjacent Mecha named "Autonomous Cockpit": Search your hand, deck and graveyard for a card named "Manly Combined Kamin" and place it on this space. Then shuffle your deck. Attach any pilots that you sacrificed this way to that Mecha.;2;3
+Manly Combined Kamin;3;Mecha;This Mecha can't be played. You may attach up to two pilots to this Mecha. You may skip your draw step to set this Mecha's durability to 6.;5;6
+Scrapyard Salvage;;Command;Return up to two target Mechas from your graveyard to your hand.;;
