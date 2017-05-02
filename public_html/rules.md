@@ -1,4 +1,4 @@
-Fight your way across vast expanses, conquer enemy batallions, and survive in this world of immense mechas - wild combat machines commanded by the best pilots this side of the catastrophe.
+Fight your way across vast expanses, conquer enemy batallions, and survive in this world of immense Mechas - wild combat machines commanded by the best pilots this side of the catastrophe.
 
 ::: mobileOnly
 
@@ -59,24 +59,24 @@ Types of Cards
 Towers
 ---
 
-Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (Radio Tower is a Basic Tower, therefore it has no limit on the number of copies you can have in your deck). Towers may be placed anywhere in your entry zone, or in a free space next to an existing tower you already control.
+Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (Radio Tower is a Basic Tower, therefore it has no limit on the number of copies you can have in your deck). Towers may be placed anywhere in your entry zone, or in a free space next to an existing Tower you control.
 
 Mechas
 ---
 
-Mechas are cards which act as playing pieces. A mecha card has three numbers down the side: their cost, their power and their durability. Players can play as many mechas as they want, as long as their mecha's total costs does not exceed their current bandwidth. If enough towers are destroyed that the bandwidth drops below the current cost, then nothing special happens; the player simply can't play any more mechas until enough bandwidth is available again. Mechas may only move one orthogonal space at a time. If a mecha can move more than one space, such as with the “speed” ability, then they must move along each space one at a time, and they cannot pass through other mechas or towers.
+Mechas are cards which act as playing pieces. A Mecha card has three numbers down the side: their cost, their power and their durability. Players can play as many Mechas as they want, as long as their Mechas' total cost does not exceed that player's current bandwidth. If enough Towers are destroyed that the bandwidth drops below the current cost, then nothing special happens; the player simply can't play any more Mechas until enough bandwidth is available again. Mechas may only move one orthogonal space at a time. If a Mecha can move more than one space, such as with the “Speed” keyword, then they must move along each space one at a time, and they cannot pass through other Mechas or Towers.
 
 Commands
 ---
 
-Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the discard pile. Some commands may have unique requirements, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
+Command cards are cards with miscellaneous abilities, and they can be played at any time, before being placed in the graveyard. Some Commands may have unique requirements to be played, such as being placed on the battlefield. If this is the case, they can occupy the same space as a unit, and they do not count as a unit.
 
-Trigger commands are a unique type of command. If a trigger command is placed into a player's damage zone, it's ability takes effect immediately. Otherwise they can be played from a player's hand like a normal command.
+Trigger Commands are a unique type of Command. If a Trigger Command is placed into a player's damage zone, it's ability takes effect as though it was played. Otherwise they can be played from a player's hand like any normal Command.
 
 Pilots
 ---
 
-Pilots are cards representing characters in the game's storyline. Pilots attach to mechas, reducing that mecha's bandwidth cost to zero, as well as granting various different abilities and power boosts. Pilots must be attached to a mecha in your entry zone. Once this is done, a pilot's power and durability modifiers are immediately applied to that mecha for as long as the pilot is attached. Each mecha can have a maximum of one attached pilot card, and a pilot card can attach to only one mecha at a time. Also, you may control only one pilot of a name at the same time.
+Pilots are cards representing characters in the game's storyline. Pilots attach to Mechas, reducing that Mecha's bandwidth cost to zero, as well as granting various different abilities and power boosts. Pilots must be attached to a Mecha in your entry zone. Once this is done, a Pilot's power and durability modifiers are immediately applied to that Mecha, and remain for as long as the pilot is attached (durability doesn't change if the Pilot is removed). Each Mecha can have a maximum of one attached Pilot, and each Pilot can attach to only one Mecha at a time. Also, you may control at most one copy of each Pilot at any time. If you control more than one copy of a Pilot, you must sacrifice one.
 
 Types of Counters
 ===
@@ -131,7 +131,7 @@ Speed represents the distance a unit can move. All units normally have a movemen
 Range X
 ---
 
-Range represents the distance that a unit can attack. Normally, a unit can only attack neighbouring units, but an attacker with Range can attack up to X spaces away. When counting spaces for Range, count in orthogonal directions only; therefore attacking one space diagonally requires Range 2. Range allows a mecha to fire "over the top of" friendly units, but not enemy units; do this by ignoring friendly units when counting the distance to a target.
+Range represents the distance that a unit can attack. Normally, a unit can only attack adjacent units, but an attacker with Range can attack up to X spaces away. When counting spaces for Range, count in orthogonal directions only; therefore attacking one space diagonally requires Range 2. Range allows a unit to fire "over the top of" friendly units, but not enemy units; do this by ignoring friendly units when counting the distance to a target.
 
 Haste
 ---
@@ -159,7 +159,7 @@ At the end of your turn, if you have more cards in hand than your maximum hand s
 Pilot Idiocy
 ---
 
-Some pilot abilities and durability modifiers may instantly destroy a mecha as soon as it's attached. In this event, the pilot's and mecha's abilities take effect for a moment before the mecha is destroyed. Therefore, in the case of Jason "The Looks" Brannan being attached to a mecha with 1 durability, both players reveal their hands and allow their opponent to take notes as needed, then the mecha is destroyed, and finally both players hide their hands again.
+Some Pilot abilities and durability modifiers may instantly destroy a Mecha as soon as it's attached. In this event, the Pilot's and Mecha's abilities take effect for a moment before the Mecha is destroyed. Therefore, in the case of Jason "The Looks" Brannan being attached to a Mecha with 1 durability, both players reveal their hands and allow their opponent to take notes as needed, then the Mecha is destroyed, and finally both players hide their hands again.
 
 Duplicate Phase Skipping
 ---
