@@ -1,1 +1,9 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
+Timely Backup;3;Mecha;When this Mecha enters the battlefield, discard two cards. If you discard less than two cards this way, this Mecha gains 2 Armour counters.;3;2
+Stage 1;1;Mecha;(No abilities.);1;2
+Stage 2;2;Mecha;You may play this Mecha on a space with a Mecha you control named "Stage 1". If you do, sacrifice that Mecha, and this Mecha gains durability equal to the sacrificed Mecha's durability.;2;2
+Stage 3;3;Mecha;You may play this Mecha on a space with a Mecha you control named "Stage 2". If you do, sacrifice that Mecha, and this Mecha gains durability equal to the sacrificed Mecha's durability.;2;2
+Scissor Suit;3;Mecha;When this Mecha attacks and and destroys a unit, put the top card of your deck into your damage zone (if you have five or more cards in your damage zone, you lose the game).;6;5
+Millennium Relic Fragment;;Command;Discard two other Commands named "Millennium Relic Fragment". If you do, search your deck for two cards and put them into your hand. Then, shuffle your deck.;;
+Infighting;;Command;Choose two target pilots an opponent controls. That player sacrifices one Mecha they're attached to.;;
+Sore Tooth;;Trigger Command;If this Command triggers, discard your hand. Otherwise, target opponent discards their hand.;;
