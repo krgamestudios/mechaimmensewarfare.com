@@ -5,6 +5,7 @@ Admiral Grace;;Pilot;Piloted Mechas you control gain +1 power.;+0;+0
 Attack Orders;;Command;One target Mecha you control can attack an extra time this turn.;;
 Autonomous Cockpit;0;Singleton Mecha;(No abilities.);0;2
 Auto-Repairer;3;Mecha;After this Mecha is attacked, if it survived, it gains 1 durability.;3;2
+Baloon Army;;Command;When a Mecha you control is attacked, before damage, you may return it to your hand. If you do, place this Command on that Mecha's space as the new target of the attack. While this Command is on the battlefield, it becomes a 0/1 Mecha with a cost of 0.;;
 Battlefield Salvage;;Command;Sacrifice a Mecha you control. If you do, draw cards equal to it's durability.;;
 Bear's Rally Cry;;Command;Return up to two Pilots with different names from your graveyard to your hand.;;
 Bear, The Unbreakable;;Pilot;When a Mecha piloted by Bear, The Unbreakable is destroyed, return that Mecha to your hand.;+0;+2
@@ -43,6 +44,7 @@ Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of a
 Heavy Fire;;Trigger Command;Remove all Armour counters from one target unit.;;
 Hidden Cache;;Command;This Command can't be played. If you discard this Command, draw three cards.;;
 Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
+Infighting;;Command;Choose two target pilots an opponent controls. That player sacrifices one Mecha they're attached to.;;
 Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach).;1;1
 Interdiction;;Command;Cancel any one card. (When a player plays a card, you may play this card to prevent it's effects, and that card is discarded.);;
 Ironhide;;Command;Put two Armour counters on one target Mecha you control in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
@@ -57,6 +59,7 @@ Longshot;;Singleton Command;Return two Commands from your graveyard to your hand
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target must move next turn if possible.;1;1
 Manly Combined Kamin;3;Mecha;This Mecha can't be played. You may attach up to two pilots to this Mecha. You may skip your draw step to set this Mecha's durability to 6.;5;6
 Marching Orders;;Command;One target Mecha you control can move an extra space this turn.;;
+Millennium Relic Fragment;;Command;Discard two other Commands named "Millennium Relic Fragment". If you do, search your deck for two cards and put them into your hand. Then, shuffle your deck.;;
 Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of your turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
 Mod Bot;2;Mecha;Sacrifice an adjacent Mecha you control: add that unit's durability to this Mecha.;1;2
 Nuclear Blast;;Singleton Command;Destroy all units (Mechas and Towers). Each player discards their hand. Put the top 5 cards of your deck into your graveyard.;;
@@ -84,6 +87,7 @@ Road Works;;Command;Play this card on the battlefield with 2 time counters on it
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
+Scissor Suit;3;Mecha;When this Mecha attacks and and destroys a unit, put the top card of your deck into your damage zone (if you have five or more cards in your damage zone, you lose the game).;6;5
 Scrapyard Salvage;;Command;Return up to two target Mechas from your graveyard to your hand.;;
 Shiftformers, Mechas In Disguise;4;Mecha;Sacrifice this Mecha: place a Mecha from you hand that costs three or less on this Mecha's space.;1;2
 Shortbow;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 2 (This unit may attack any target within two spaces).;1;1
@@ -94,12 +98,18 @@ Skipper;2;Mecha;Haste (this Mecha can move and attack the same turn it's played)
 Sky Whale;6;Singleton Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;4;4
 Slippery Eel;2;Mecha;When this Mecha enters the battlefield, other Mechas with the word "Eel" in their names gain +1 durability.;1;1
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
+Sore Tooth;;Trigger Command;If this Command triggers, discard your hand. Otherwise, target opponent discards their hand.;;
+Space Lion;;Command;Return one target Mecha to it's owner's hand.;;
 Spectre;2;Mecha;This Mecha's power and durability are reduced by the number of cards in your hand.;5;5
 Spinning Top;3;Mecha;When this Mecha moves, shuffle all player's decks.;3;3
+Stage 1;1;Mecha;(No abilities.);1;2
+Stage 2;2;Mecha;You may play this Mecha on a space with a Mecha you control named "Stage 1". If you do, sacrifice that Mecha, and this Mecha gains durability equal to the sacrificed Mecha's durability.;2;2
+Stage 3;3;Mecha;You may play this Mecha on a space with a Mecha you control named "Stage 2". If you do, sacrifice that Mecha, and this Mecha gains durability equal to the sacrificed Mecha's durability.;3;2
 Stonewall;1;Mecha;This Mecha can't attack. When this Mecha moves, it can't move next turn.;0;6
 Succubus;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Pierce (This unit ignores Armour counters when attacking).;2;1
 The Vise;3;Mecha;As long as this unit is in play, each player's maximum hand size is reduced by 2.;4;4
 Thunder Eel;4;Mecha;This Mecha may attack twice per turn.;2;2
+Timely Backup;3;Mecha;When this Mecha enters the battlefield, discard two cards. If you discard less than two cards this way, this Mecha gains 2 Armour counters.;3;2
 Trench Rats;4;Mecha;When this Mecha enters the battlefield, you may place a Mecha named "Trench Rats" from your hand in your entry zone.;1;1
 Tunnel Warfare;;Command;Discard another card from your hand. If you do, one target Mecha you control can move an extra space this turn.;;
 Turn The Key;;Command;All Mechas you control with the word "Wind-Up" in their name gain +2 power and cost 1 less this turn (costs can't be less than 0).;;
