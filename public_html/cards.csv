@@ -3,7 +3,7 @@ Ada's Rally Cry;;Command;Attach this Command to a Pilot you control. Play with t
 Ada, The Ingenious;;Pilot;A Mecha piloted by Ada, The Ingenious can't be targeted by your opponents.;+0;+2
 Admiral Grace;;Pilot;Piloted Mechas you control gain +1 power.;+0;+0
 Attack Orders;;Command;One target Mecha you control can attack an extra time this turn.;;
-Autonomous Cockpit;0;Singleton Mecha;(No abilities.);0;2
+Autonomous Cockpit;0;Mecha;(No abilities.);0;2
 Auto-Repairer;3;Mecha;After this Mecha is attacked, if it survived, it gains 1 durability.;3;2
 Baloon Army;;Command;When a Mecha you control is attacked, before damage, you may return it to your hand. If you do, place this Command on that Mecha's space as the new target of the attack. While this Command is on the battlefield, it becomes a 0/1 Mecha with a cost of 0.;;
 Battlefield Salvage;;Command;Sacrifice a Mecha you control. If you do, draw cards equal to it's durability.;;
