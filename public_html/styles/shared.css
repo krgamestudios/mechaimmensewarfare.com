@@ -15,6 +15,10 @@ h1 {
 	font-weight: bold;
 }
 
+h1 a {
+	color: inherit;
+}
+
 h2 {
 	font-size: 16px;
 	font-weight: bold;
@@ -48,6 +52,11 @@ th:nth-child(4) {
 
 footer {
 	text-align: center;
+}
+
+.noPadding {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
 }
 
 /* Up and Down Arrows */

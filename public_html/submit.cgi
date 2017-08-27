@@ -14,10 +14,10 @@ my $feedback = escapeHTML(CGI::param('feedback'));
 my $message = Email::MIME->create();
 
 $message->header_str_set(From => 'no-reply@krgamestudios.com');
-$message->header_str_set(To => 'kayneruse@gmail.com');
+$message->header_str_set(To => 'kruse@localhost');
 $message->header_str_set(Subject => 'Mecha Feedback');
 
-$message->encoding_set('quoted-printable');
+#!$message->encoding_set('quoted-printable');
 $message->charset_set('UTF-8');
 
 $message->body_set($feedback);
