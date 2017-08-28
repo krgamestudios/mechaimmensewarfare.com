@@ -160,10 +160,10 @@ function buildSearchBar(searchCallback, callbackArg) {
   button.id = "searchButton";
   button.className = "ui button";
   button.innerHTML = "Search";
-  button.onclick = () => { searchCallback(input.value, callbackArg); };
+  button.onclick = function() { searchCallback(input.value, callbackArg); };
   div.appendChild(button);
   //hack
-  input.onkeypress = (e) => { if (e && e.keyCode == 13) { button.click(); } };
+  input.onkeypress = function(e) { if (e && e.keyCode == 13) { button.click(); } };
   return div;
 }
 
