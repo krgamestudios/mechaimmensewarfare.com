@@ -1,5 +1,5 @@
 //global markdown object and configuration
-var markdown = window.markdownit()
+var markdown = window.markdownit({html:true})
 
   //allow HTML-style comments
   .use(window.markdownitInlineComments)
