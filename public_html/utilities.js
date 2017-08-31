@@ -12,7 +12,7 @@ var markdown = window.markdownit({html:true})
     render: function (tokens, idx) {
       if (tokens[idx].nesting === 1) {
         //opening tag
-        return '<div class="ui mobile only grid">';
+        return '<div class="ui mobile only">';
       } else {
         // closing tag
         return '</div>';
