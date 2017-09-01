@@ -16,10 +16,10 @@
     <!-- navigation buttons -->
     <div class="ui container">
         <div class="four ui buttons">
-          <button class="ui button centered noPadding" onClick="printMarkdown('rules.md', document.getElementById('content'));">Rules</button>
-          <button class="ui button centered noPadding" onClick="printCSV('cards.csv', document.getElementById('content'));">Cards</button>
-          <button class="ui button centered noPadding" onClick="printCSV('card_concepts.csv', document.getElementById('content'));">Card Concepts</button>
-          <button class="ui button centered noPadding" onClick="printHTML('feedback.html', document.getElementById('content'))">Feedback</button>
+          <button class="ui button centered noPadding" onClick="printMarkdown('src/rules.md', document.getElementById('content'));">Rules</button>
+          <button class="ui button centered noPadding" onClick="printCSV('src/cards.csv', document.getElementById('content'));">Cards</button>
+          <button class="ui button centered noPadding" onClick="printCSV('src/card_concepts.csv', document.getElementById('content'));">Card Concepts</button>
+          <button class="ui button centered noPadding" onClick="printHTML('src/feedback.html', document.getElementById('content'))">Feedback</button>
         </div>
     </div>
 
@@ -38,7 +38,7 @@
     <script src="tsorter.min.js"></script>
     <script src="utilities.js"></script>
     <script>
-      printMarkdown("rules.md", document.getElementById("content"));
+      printMarkdown("src/rules.md", document.getElementById("content"));
     </script>
   </body>
 </html>
