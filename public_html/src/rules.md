@@ -62,7 +62,7 @@ Types of Cards
 Towers
 ---
 
-Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (Radio Tower is a Basic Tower, therefore it has no limit on the number of copies you can have in your deck). Towers may be placed anywhere in your entry zone, or in a free space next to an existing Tower you control.
+Tower cards generally cannot move, but provide “bandwidth”, which can be used to play Mecha cards (Radio Tower is a Basic Tower, therefore it has no limit on the number of copies you can have in your deck). Towers may be placed anywhere in your entry zone, or in a free space next to an existing Tower you control. Radio Towers have a base durability of 2, so they can be destroyed as though they were any other unit.
 
 Mechas
 ---
@@ -79,7 +79,7 @@ Trigger Commands are a unique type of Command. If a Trigger Command is placed in
 Pilots
 ---
 
-Pilots are cards representing characters in the game's storyline. Pilots attach to Mechas, reducing that Mecha's bandwidth cost to zero, as well as granting various different abilities and power boosts. Pilots must be attached to a Mecha in your entry zone. Once this is done, a Pilot's power and durability modifiers are immediately applied to that Mecha, and remain for as long as the pilot is attached (durability doesn't change if the Pilot is removed). Each Mecha can have a maximum of one attached Pilot, and each Pilot can attach to only one Mecha at a time. Also, you may control at most one copy of each Pilot at any time. If you control more than one copy of a Pilot, you must sacrifice one.
+Pilots are cards representing characters in the game's storyline. Pilots attach to Mechas, reducing that Mecha's bandwidth cost to zero, as well as granting various different abilities and power boosts. Pilots must be attached to a Mecha in your entry zone. Once this is done, a Pilot's power and durability modifiers are immediately applied to that Mecha, and remain for as long as the pilot is attached (durability doesn't change if the Pilot is removed). Each Mecha can have a maximum of one attached Pilot, and each Pilot can attach to only one Mecha at a time. Also, you may control at most one copy of each Pilot at any time. If you control more than one copy of a Pilot, you must sacrifice them one at a time, until only one is left.
 
 Types of Counters
 ===
@@ -89,17 +89,17 @@ Various cards on the battlefield may have different types of “counters” on t
 Durability
 ---
 
-Durability counters represent how much damage a unit can take before being destroyed. When a unit enters the battlefield, they begin with a number of durability counters equal to their base durability. When another unit attacks with a power of X, then you remove X durability counters from this unit. When the number of durability counters on any unit drops to zero, the unit is destroyed and discarded.
+Durability counters represent how much damage a unit can take before being destroyed. When a unit enters the battlefield, they begin with a number of durability counters equal to their base durability. When another unit attacks with a power of X, then you remove X durability counters from this unit. When the number of durability counters on any unit drops to zero, the unit is destroyed and discarded. (Hint: Use six-sided dice to represent durability. Don't mark durability on a unit that hasn't been damaged yet; this reduces clutter on the board.)
 
 Armour
 ---
 
-Armour counters protect a unit's durability. Each time a unit is attacked, if it has armour counters, remove one armour counter instead of any durability counters. Therefore, a unit with two armour counters can be attacked twice before taking damage.
+Armour counters protect a unit's durability. Each time a unit is attacked, if it has armour counters, remove one armour counter instead of any durability counters. Therefore, a unit with two armour counters can be attacked twice before taking damage. (Hint: Use small coins to represent armour counters.)
 
 Time
 ---
 
-Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter on it at the beginning of your turn, then remove one time counter.
+Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter on it at the beginning of your turn, then remove one time counter. (Hint: Use six-sided dice to represent time counters.)
 
 List of Keyword Mechanics
 ===
@@ -129,7 +129,7 @@ Reach Allows you to attack units with Flight.
 Speed X
 ---
 
-Speed represents the distance a unit can move. All units normally have a movement distance of 1, but a unit with Speed 3 can move up to three spaces in a turn, one at a time. They can also change direction mid-travel.
+Speed represents the distance a unit can move in one turn. All units normally have a movement speed of 1 but, for example, a unit with Speed 3 can move up to three spaces in one turn; they can also change direction mid-travel.
 
 Range X
 ---
