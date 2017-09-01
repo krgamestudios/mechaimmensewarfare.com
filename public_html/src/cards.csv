@@ -28,7 +28,7 @@ Dragon Ship;4;Mecha;Armour 2 (This unit enters the battlefield with two Armour c
 Drill Mole;2;Mecha;This Mecha can't be attacked by units that cost more than 2.;3;2
 Drone Nest;;Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). When this Tower takes damage, you may search your deck for a Mecha with the word "Drone" in it's name and play it in your entry zone. If you do, shuffle your deck. Mechas you control with the word "Drone" in their name gain +1 power.;;2
 Drone Swarm;3;Mecha;This Mecha's power is equal to the number of Mechas you control with the word "Drone" in their names.;0;1
-Electric Eel;2;Mecha;Other Mechas with the word "Eel" in their names have +1 power.;1;1
+Electric Bull;2;Mecha;Other Mechas with the word "Bull" in their names have +1 power.;1;1
 EMP Blast;;Command;Destroy all Towers (including Mecha Towers).;;
 Engineered Earthquake;;Command;Deal 2 damage to all Mechas without Flight.;;
 Espionage;;Command;Look at one target player's hand, then draw a card.;;
@@ -96,7 +96,7 @@ Signal Booster;2;Mecha;Flight (This unit can't be attacked except by units with 
 Signal Jamming;;Command;One target player discards their hand.;;
 Skipper;2;Mecha;Haste (this Mecha can move and attack the same turn it's played).;2;2
 Sky Whale;6;Singleton Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;4;4
-Slippery Eel;2;Mecha;When this Mecha enters the battlefield, other Mechas with the word "Eel" in their names gain +1 durability.;1;1
+Mechanical Bull;2;Mecha;When this Mecha enters the battlefield, other Mechas with the word "Bull" in their names gain +1 durability.;1;1
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
 Sore Tooth;;Trigger Command;If this Command triggers, discard your hand. Otherwise, target opponent discards their hand.;;
 Space Lion;;Trigger Command;Return one target Mecha to it's owner's hand.;;
@@ -108,7 +108,7 @@ Stage 3;3;Mecha;You may play this Mecha on a space with a Mecha you control name
 Stonewall;1;Mecha;This Mecha can't attack. When this Mecha moves, it can't move next turn.;0;6
 Succubus;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Pierce (This unit ignores Armour counters when attacking).;2;1
 The Vise;3;Mecha;As long as this unit is in play, each player's maximum hand size is reduced by 2.;4;4
-Thunder Eel;4;Mecha;This Mecha may attack twice per turn.;2;2
+Thunder Bull;4;Mecha;This Mecha may attack twice per turn.;2;2
 Timely Backup;3;Mecha;When this Mecha enters the battlefield, discard two cards. If you discard less than two cards this way, this Mecha gains 2 Armour counters.;3;2
 Trench Rats;1;Mecha;When this Mecha enters the battlefield, you may place a Mecha named "Trench Rats" from your hand in your entry zone.;1;1
 Tunnel Warfare;;Command;Discard another card from your hand. If you do, one target Mecha you control can move an extra space this turn.;;
