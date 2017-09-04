@@ -32,36 +32,36 @@ Electric Bull;2;Mecha;Other Mechas with the word "Bull" in their names have +1 p
 EMP Blast;;Command;Destroy all Towers (including Mecha Towers).;;
 Engineered Earthquake;;Command;Deal 2 damage to all Mechas without Flight.;;
 Espionage;;Command;Look at one target player's hand, then draw a card.;;
-Fallout Shelter;;Command;If this card was put into your graveyard from your deck, shuffle your graveyard into your deck. Otherwise, draw a card (do this if you simply played this Command).;;
+Fallout Shelter;;Command;If this Command was put into your graveyard from your deck, shuffle your graveyard into your deck. Otherwise, draw a card (do this if you simply played this Command).;;
 Frequency Modulator;2;Mecha;This Mecha's power is equal to your remaining bandwidth.;0;3
 Gambit;;Command;Each player discards a card, then draws a card.;;
 Gamble;;Command;Each player discards a card from their hand. Then, choose a player at random. That player draws a card for each card discarded this turn.;;
 Ghost;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). If you have no cards in your hand, this Mecha gains +4  power.;0;1
 Golden Key;;Command;Attach this Command to a Mecha you control in your entry zone. That Mecha loses all abilities, it's cost becomes 0, and it's name becomes "Wind-Up X", where "X"is it's base name.;;
 Grace's Rally Cry;;Command;Search your deck for two Pilots with different names and put them into your hand. Then, shuffle your deck.;;
-Guard Dog;2;Mecha;Haste (this Mecha can move and attack the same turn it's played). Speed 2 (this mecha may move up to two spaces each turn).;1;1
-Gutshot;2;Mecha;When a player plays a command, they must sacrifice one Tower they control.;2;2
+Guard Dog;2;Mecha;Haste (this Mecha can move and attack the same turn it's played). Speed 2 (this Mecha may move up to two spaces each turn).;1;1
+Gutshot;2;Mecha;When a player plays a Command, they must sacrifice one Tower they control.;2;2
 Harmonic Chord;2;Mecha;When this Mecha enters the battlefield, gain control of all units you own.;0;5
 Heavy Fire;;Trigger Command;Remove all Armour counters from one target unit.;;
 Hidden Cache;;Command;This Command can't be played. If you discard this Command, draw three cards.;;
 Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
-Infighting;;Command;Choose two target pilots an opponent controls. That player sacrifices one Mecha they're attached to.;;
+Infighting;;Command;Choose two target Pilots an opponent controls. That player sacrifices one Mecha they're attached to.;;
 Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach).;1;1
-Interdiction;;Command;Cancel any one card. (When a player plays a card, you may play this card to prevent it's effects, and that card is discarded.);;
+Interdiction;;Command;Cancel one target card. (When a player tries to play a card, you may immediately play this Command to prevent and discard it.);;
 Ironhide;;Command;Put two Armour counters on one target Mecha you control in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
 Jaeger;6;Singleton Mecha;Armour 3 (This unit enters the battlefield with three Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Reach (This unit may attack units with Flight).;6;6
 Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. That Pilot loses all abilities (including changes to cost and power).;;
 Jason "The Looks" Brannan;;Pilot;All players play with their hands revealed.;+1;-1
 Jury Rigging;;Trigger Command;You may place a Mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn unless it has haste).;;
-Kamin;2;Mecha;Sacrifice this Mecha and an adjacent Mecha named "Autonomous Cockpit": Search your hand, deck and graveyard for a card named "Manly Combined Kamin" and place it on this space. Then shuffle your deck. Attach any pilots that you sacrificed this way to that Mecha.;2;3
+Kamin;2;Mecha;Sacrifice this Mecha and an adjacent Mecha named "Autonomous Cockpit": Search your hand, deck and graveyard for a card named "Manly Combined Kamin" and place it on this space. Then shuffle your deck. Attach any Pilots that you sacrificed this way to that Mecha.;2;3
 Lazer Cannon;4;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;2;2
 Longbow;2;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 3 (This unit may attack any target within three spaces).;1;1
 Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target must move next turn if possible.;1;1
-Manly Combined Kamin;3;Mecha;This Mecha can't be played. You may attach up to two pilots to this Mecha. You may skip your draw step to set this Mecha's durability to 6.;5;6
+Manly Combined Kamin;3;Mecha;This Mecha can't be played. You may attach up to two Pilots to this Mecha. You may skip your draw step to set this Mecha's durability to 6.;5;6
 Marching Orders;;Command;One target Mecha you control can move an extra space this turn.;;
 Millennium Relic Fragment;;Command;Discard two other Commands named "Millennium Relic Fragment". If you do, search your deck for two cards and put them into your hand. Then, shuffle your deck.;;
-Mineshaft;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of your turn). At the beginning of your draw phase, if there are no time counters on this card, draw one additional card this turn.;;
+Mineshaft;;Command;Play this Command on the battlefield with 2 time counters on it (Remove one time counter at the beginning of your turn). At the beginning of your draw phase, if there are no time counters on this Command, draw one additional card this turn.;;
 Mod Bot;2;Mecha;Sacrifice an adjacent Mecha you control: add that unit's durability to this Mecha.;1;2
 Nuclear Blast;;Singleton Command;Destroy all units (Mechas and Towers). Each player discards their hand. Put the top 5 cards of your deck into your graveyard.;;
 Orbital Strike;;Trigger Command;Deal 2 damage to one target unit ("units" include Mechas and Towers).;;
@@ -80,10 +80,10 @@ Raining Cats And Dogs;;Command;Search you deck for a card with the word "Cat" in
 Rampart;0;Mecha Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). This Mecha Tower can't move. Adjacent Mechas you control can't be targeted by attacks.;0;2
 Ramp Orders;;Command;One target Mecha you control gains Reach this turn (That unit may attack units with Flight).;;
 Reconnaissance;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Range 3 this turn.;;
-Reparations;;Command;Play this command only when a mecha you control is destroyed. Destroy one target Mecha.;;
+Reparations;;Command;Play this Command only when a Mecha you control is destroyed. Destroy one target Mecha.;;
 Resonant Chord;5;Mecha;Discard a Mecha with the same name as this Mecha: Gain control of all adjacent units.;5;3
 Rigged to Blow;;Command;Attach this Command to one target Mecha you control in your entry zone. When that unit is destroyed, deal 2 damage to the Mecha that attacked it.;;
-Road Works;;Command;Play this card on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this card, Mechas on or adjacent to this command gain Speed 3 this turn (those units may move up to three spaces this turn).;;
+Road Works;;Command;Play this Command on the battlefield with 2 time counters on it (Remove one time counter at the beginning of each turn). At the beginning of your main phase, if there are no time counters on this Command, Mechas on or adjacent to this Command gain Speed 3 this turn (those units may move up to three spaces this turn).;;
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
