@@ -1,7 +1,7 @@
 Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
 Acid Rain;;Command;Destroy one target Command on the battlefield.;;
 Grand Hurricane;;Command;Mechas can't move this turn.;;
-Anti-Mecha Battery;1;Mecha;Sacrifice this Mecha: Cancel one target Mecha card. (When a player tries to plays a Mecha, you may immediately sacrifice this Mecha to prevent and discard it.);0;4
+Anti-Mecha Battery;1;Mecha;Sacrifice this Mecha: Cancel one target Mecha. (When a player tries to plays a Mecha, you may immediately sacrifice this Mecha to prevent and discard it.);0;4
 Floodlights;;Tower;Provides 1u (1 unit of bandwidth. Play only one Tower card each turn). Adjacent Mechas  you control gain Pierce (Those units ignore Armour counters when attacking).;;2
 Clocktower;;Tower;All Non-Basic Towers lose all abilities, except this ability (Non-Basic towers no longer provide bandwidth).;;5
 Urban Ruins;;Command;Play this Command on the battlefield. At the beginning of each player's turn, Mechas that player controls that are on or adjacent to this Command gain 1 durability counter.;;
