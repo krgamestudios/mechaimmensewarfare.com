@@ -4,6 +4,9 @@ var markdown = window.markdownit({html:true})
   //allow HTML-style comments
   .use(window.markdownitInlineComments)
 
+  //allow HTML attributes
+//  .use(window.markdownitdecorate)
+
   //configure for semantic-style visibility controls
   .use(window.markdownitContainer, 'mobileOnly', {
     validate: function(params) {
@@ -132,7 +135,7 @@ function parseCSVToTable(csvText, delim) {
     //insert td objects
     if (i != 0) {
       var row = tbody.insertRow(-1);
-      for (var j = 0; j < lines[i].length; j++) {
+      for (var j = 0;j < lines[i].length; j++) {
         var cell = row.insertCell(-1);
         cell.appendChild(document.createTextNode(lines[i][j]));
       }
