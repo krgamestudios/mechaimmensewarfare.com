@@ -54,7 +54,7 @@ Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. Tha
 Jason "The Looks" Brannan;;Pilot;All players play with their hands revealed.;+1;-1
 Jury Rigging;;Trigger Command;You may place a Mecha that costs 2 or less from your hand in your entry zone (it can't move or attack this turn unless it has haste).;;
 Kamin;2;Mecha;Sacrifice this Mecha and an adjacent Mecha named "Autonomous Cockpit": Search your hand, deck and graveyard for a card named "Manly Combined Kamin" and place it on this space. Then shuffle your deck. Attach any Pilots that you sacrificed this way to that Mecha.;2;3
-Lazer Cannon;4;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;2;2
+Laser Cannon;4;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;2;2
 Longbow;2;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 3 (This unit may attack any target within three spaces).;1;1
 Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target must move next turn if possible.;1;1
@@ -69,7 +69,7 @@ Orbiter;1;Mecha;Flight (This unit can't be attacked except by units with Flight 
 Pack Cat;1;Mecha;This Mecha gains +1 power for each other Mecha you control with the word "Pack" in it's name.;1;1
 Pack Dog;3;Mecha;This Mecha gains +1 power for each other Mecha you control with the word "Pack" in it's name.;1;3
 Pack Wolf;5;Mecha;This Mecha gains +1 power for each other Mecha you control with the word "Pack" in it's name.;1;5
-Pheonix;5;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). While this Mecha is in your graveyard, you may skip your draw step. If you do, return this Mecha from your graveyard to your hand.;3;3
+Phoenix;5;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). While this Mecha is in your graveyard, you may skip your draw step. If you do, return this Mecha from your graveyard to your hand.;3;3
 Potshot;2;Mecha;When a Tower you control is destroyed, deal 1 damage to one target unit an opponent controls.;2;3
 Preparations;;Command;One target Mecha you control gains haste this turn (that Mecha can move and attack as normal if you played it this turn).;;
 Preplanning;;Command;Search you deck for 3 Towers, and place them on the battlefield. You can't play Towers for the rest of the game.;;
