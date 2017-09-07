@@ -15,10 +15,10 @@ var markdown = window.markdownit({html:true})
     render: function (tokens, idx) {
       if (tokens[idx].nesting === 1) {
         //opening tag
-        return '<div class="ui mobile only">';
+        return '<div class="ui mobile only grid"><div class="sixteen wide column">';
       } else {
         // closing tag
-        return '</div>';
+        return '</div></div>';
       }
     }
   });
