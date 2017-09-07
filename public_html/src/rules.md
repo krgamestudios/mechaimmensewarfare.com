@@ -17,7 +17,6 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
 - [Types of Counters](#types-of-counters)
   * [Durability](#durability)
   * [Armour](#armour)
-  * [Time](#time)
 - [List of Keyword Mechanics](#list-of-keyword-mechanics)
   * [Armour X](#armour-x)
   * [Pierce](#pierce)
@@ -31,7 +30,6 @@ Fight your way across vast expanses, conquer enemy batallions, and survive in th
   * [Mulligans](#mulligans)
   * [Maximum Hand Size](#maximum-hand-size)
   * [Pilot Idiocy](#pilot-idiocy)
-  * [Duplicate Phase Skipping](#duplicate-phase-skipping)
 
 <!-- tocstop -->
 
@@ -96,10 +94,14 @@ Armour
 
 Armour counters protect a unit's durability. Each time a unit is attacked, if it has armour counters, remove one armour counter instead of any durability counters. Therefore, a unit with two armour counters can be attacked twice before taking damage. (Hint: Use small coins to represent armour counters.)
 
-Time
----
+<!--
+
+#Time
+#---
 
 Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter on it at the beginning of your turn, then remove one time counter. (Hint: Use six-sided dice to represent time counters.)
+
+-->
 
 List of Keyword Mechanics
 ===
@@ -164,7 +166,11 @@ Pilot Idiocy
 
 Some Pilot abilities and durability modifiers may instantly destroy a Mecha as soon as it's attached. In this event, the Pilot's and Mecha's abilities take effect for a moment before the Mecha is destroyed. Therefore, in the case of Jason "The Looks" Brannan being attached to a Mecha with 1 durability, both players reveal their hands and allow their opponent to take notes as needed, then the Mecha is destroyed, and finally both players hide their hands again.
 
-Duplicate Phase Skipping
----
+<!--
+
+#Duplicate Phase Skipping
+#---
 
 Some abilities may require you to skip a phase of your turn, or your entire turn to activate. If you do, you cannot activate multiple abilities with a single action this way. Therefore, in the case of having multiple copies of Pheonix in your graveyard, you may only skip your draw steps one at a time, and return one Pheonix to your hand at a time.
+
+-->
