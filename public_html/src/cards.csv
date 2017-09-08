@@ -41,13 +41,13 @@ Heavy Fire;;Trigger Command;Remove all Armour counters from one target unit.;;
 Hidden Cache;;Command;This Command can't be played. If you discard this Command, draw three cards.;;
 Illegal Bullet;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Pierce this turn.;;
 Infighting;;Command;Choose two target Pilots an opponent controls. That player sacrifices one Mecha they're attached to.;;
-Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach).;1;1
+Insect Drone;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Speed 2 (This Mecha may move up to two spaces each turn).;1;1
 Interdiction;;Command;Cancel one target card. (When a player tries to play a card, you may immediately play this Command to prevent and discard it.);;
 Ironhide;;Command;Put two Armour counters on one target Mecha you control in your entry zone (If a unit would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;;
 Jaeger;6;Singleton Mecha;Armour 3 (This unit enters the battlefield with three Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Reach (This unit may attack units with Flight).;6;6
 Jason's Rally Cry;;Command;Attach this Command to a Pilot you don't control. That Pilot loses all abilities (including changes to cost and power).;;
 Jason "The Looks" Brannan;;Pilot;All players play with their hands revealed.;+1;-1
-Laser Cannon;4;Mecha;Armour 1 (This unit enters the battlefield with one Armour counter. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter). Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;2;2
+Laser Cannon;4;Mecha;Range 3 (This unit may attack any target within three spaces). This Mecha may not attack and move in the same turn.;2;2
 Longshot;;Singleton Command;Return two Commands from your graveyard to your hand.;;
 Magpie Drone;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). When this Mecha attacks, the target must move next turn if possible.;1;1
 Marching Orders;;Command;One target Mecha you control can move an extra space this turn.;;
@@ -73,10 +73,10 @@ Rigged to Blow;;Command;Attach this Command to one target Mecha you control in y
 Rocket Propulsion;;Command;Discard another card from your hand. If you do, one target Mecha you control gains Flight this turn.;;
 Sabotage;;Command;Sacrifice a Tower you control. Destroy one target Mecha.;;
 Scrapyard Salvage;;Command;Return up to two target Mechas from your graveyard to your hand.;;
+Shortbow;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 2 (This unit may attack any target within two spaces).;1;1
 Siege Tower;;Tower;Provides 3u (3 units of bandwidth. Play only one Tower card each turn). Play this Tower only in an opponent's entry zone (it must still be played next to a Tower you control).;;2
 Signal Blocker;3;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of adjacent Mechas is increased by 3.;1;1
 Signal Booster;2;Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). The cost of adjacent Mechas is decreased by 1 (a bandwidth cost can't be less than 0).;1;1
-Skipper;2;Mecha;Haste (this Mecha can move and attack the same turn it's played).;2;2
 Sky Whale;6;Singleton Mecha;Flight (This unit can't be attacked except by units with Flight or Reach). Armour 2 (This unit enters the battlefield with two Armour counters. If it would take damage while it has any Armour counters, prevent that damage and remove an Armour counter).;4;4
 Snapshot;;Command;Return two Towers from your graveyard to the battlefield under your control.;;
 Sore Tooth;;Trigger Command;If this Command triggers, discard your hand. Otherwise, target opponent discards their hand.;;

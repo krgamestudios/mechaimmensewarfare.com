@@ -22,8 +22,8 @@ Road Works;;Command;Play this Command on the battlefield with 2 time counters on
 Rumour Mill;;Command;While this Command is in your damage zone, you may play it once per turn by discarding two cards as a cost. Draw a card.;;
 Scissor Suit;3;Mecha;When this Mecha attacks and destroys a unit, put the top card of your deck into your damage zone (if you have five or more cards in your damage zone, you lose the game).;6;5
 Shiftformers, Mechas In Disguise;4;Mecha;Sacrifice this Mecha: place a Mecha from you hand that costs three or less on this Mecha's space.;2;4
-Shortbow;1;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 2 (This unit may attack any target within two spaces).;1;1
 Signal Jamming;;Command;One target player discards their hand.;;
+Skipper;2;Mecha;Haste (this Mecha can move and attack the same turn it's played).;2;2
 Spinning Top;3;Mecha;When this Mecha moves, shuffle all player's decks.;3;3
 Stage 1;1;Mecha;(No abilities.);1;2
 Stage 2;2;Mecha;You may play this Mecha on a space with a Mecha you control named "Stage 1". If you do, sacrifice that Mecha, and this Mecha gains durability equal to the sacrificed Mecha's durability.;2;2
