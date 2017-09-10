@@ -1,8 +1,3 @@
-<a href="https://facebook.com/KRGameStudios"><img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/FB-fLogo-Blue-broadcast-2.png" alt="Facebook" width="32" height="32"></a>
-<a href="https://twitter.com/KRGameStudios"><img src="img/twitter.png" alt="Twitter" width="32" height="32"></a>
-
-Fight your way across vast expanses, conquer enemy batallions, and survive in this world of immense Mechas - wild combat machines commanded by the best pilots this side of the catastrophe.
-
 ::: mobileOnly
 
 <!-- toc -->
