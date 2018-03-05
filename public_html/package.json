@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "markdown-toc -i rules.md"
+    "start": "markdown-toc -i ./src/rules.md"
   },
   "author": "",
   "license": "ISC",

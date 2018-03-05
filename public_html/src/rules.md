@@ -12,6 +12,7 @@
 - [Types of Counters](#types-of-counters)
   * [Durability](#durability)
   * [Armour](#armour)
+  * [Time](#time)
 - [List of Keyword Mechanics](#list-of-keyword-mechanics)
   * [Armour X](#armour-x)
   * [Pierce](#pierce)
@@ -25,6 +26,7 @@
   * [Mulligans](#mulligans)
   * [Maximum Hand Size](#maximum-hand-size)
   * [Pilot Idiocy](#pilot-idiocy)
+  * [Duplicate Phase Skipping](#duplicate-phase-skipping)
 
 <!-- tocstop -->
 
@@ -35,7 +37,7 @@ Basic Rules
 
 The goal of the game is to attack your opponent directly five times. Each time a player is attacked directly, they place the top card of their deck in the damage zone. Once there are five cards in a player's damage zone, that player loses the game.
 
-The game takes place on a 5*7 grid (wider than it is long). Players start the game with a deck of 40 cards, with no more than 3 copies of any one card, except for Basics (no limit) and Singletons (maximum of 1). Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
+The game takes place on a 5*7 grid (wider than it is long). Players start the game with a deck of at least 40 cards, with no more than 3 copies of any one card, except for Basics (no limit) and Singletons (maximum of 1). Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
 
 When combat between units is initiated, the attacker's power is subtracted from the defender's durability. When a unit's durability reaches zero, it is destroyed and discarded.
 
@@ -89,14 +91,10 @@ Armour
 
 Armour counters protect a unit's durability. Each time a unit is attacked, if it has armour counters, remove one armour counter instead of any durability counters. Therefore, a unit with two armour counters can be attacked twice before taking damage. (Hint: Use small coins to represent armour counters.)
 
-<!--
+Time
+---
 
-#Time
-#---
-
-Time counters represent the amount of time remaining before some action takes place. If a permanent you control has a time counter on it at the beginning of your turn, then remove one time counter. (Hint: Use six-sided dice to represent time counters.)
-
--->
+Time counters represent the amount of time remaining before some action takes place. If a permanent you control has time counters on it at the beginning of your turn, then remove one of those time counters. (Hint: Use six-sided dice to represent time counters.)
 
 List of Keyword Mechanics
 ===
@@ -161,11 +159,8 @@ Pilot Idiocy
 
 Some Pilot abilities and durability modifiers may instantly destroy a Mecha as soon as it's attached. In this event, the Pilot's and Mecha's abilities take effect for a moment before the Mecha is destroyed. Therefore, in the case of Jason "The Looks" Brannan being attached to a Mecha with 1 durability, both players reveal their hands and allow their opponent to take notes as needed, then the Mecha is destroyed, and finally both players hide their hands again.
 
-<!--
-
-#Duplicate Phase Skipping
-#---
+Duplicate Phase Skipping
+---
 
 Some abilities may require you to skip a phase of your turn, or your entire turn to activate. If you do, you cannot activate multiple abilities with a single action this way. Therefore, in the case of having multiple copies of Pheonix in your graveyard, you may only skip your draw steps one at a time, and return one Pheonix to your hand at a time.
 
--->
