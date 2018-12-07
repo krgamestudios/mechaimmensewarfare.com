@@ -1,0 +1,14 @@
+#directories
+logs/**
+/**/coverage
+/**/node_modules
+/**/dl
+
+#log files
+/**/*.log
+
+#output files
+*.bundle.js
+
+#development files
+package-lock.json
