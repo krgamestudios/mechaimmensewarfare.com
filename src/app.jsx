@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
 import { Header, Container } from "semantic-ui-react";
 
 //include styles
@@ -25,10 +25,10 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className="central">
-				<Header as="h1" textAlign="center">Mecha: Immense Warfare</Header>
 				<BrowserRouter>
 					<Container className="panel">
-						<LinkButton.Group widths="5">
+						<Link to="/"><Header as="h1" textAlign="center">Mecha: Immense Warfare</Header></Link>
+						<LinkButton.Group widths="4">
 							<LinkButton to="/rules">Rules</LinkButton>
 							<LinkButton to="/cardlist">Card List</LinkButton>
 							<LinkButton to="/concepts">Concepts</LinkButton>
