@@ -29,7 +29,7 @@ class Landing extends React.Component {
 	render() {
 		return (
 			<div>
-				<ReactMarkdown source={this.state.body} escapeHtml={false} />
+				<ReactMarkdown source={this.state.body} />
 			</div>
 		);
 	}

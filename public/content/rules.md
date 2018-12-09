@@ -1,43 +1,9 @@
-::: mobileOnly
-
-<!-- toc -->
-
-- [Basic Rules](#basic-rules)
-  * [Phases of a Turn](#phases-of-a-turn)
-- [Types of Cards](#types-of-cards)
-  * [Towers](#towers)
-  * [Mechas](#mechas)
-  * [Commands](#commands)
-  * [Pilots](#pilots)
-- [Types of Counters](#types-of-counters)
-  * [Durability](#durability)
-  * [Armour](#armour)
-  * [Time](#time)
-- [List of Keyword Mechanics](#list-of-keyword-mechanics)
-  * [Armour X](#armour-x)
-  * [Pierce](#pierce)
-  * [Flight](#flight)
-  * [Reach](#reach)
-  * [Speed X](#speed-x)
-  * [Range X](#range-x)
-  * [Haste](#haste)
-  * [Provide Xu](#provide-xu)
-- [Other Rules and Corner Case Rulings](#other-rules-and-corner-case-rulings)
-  * [Mulligans](#mulligans)
-  * [Maximum Hand Size](#maximum-hand-size)
-  * [Pilot Idiocy](#pilot-idiocy)
-  * [Duplicate Phase Skipping](#duplicate-phase-skipping)
-
-<!-- tocstop -->
-
-:::
-
 Basic Rules
 ===
 
 The goal of the game is to attack your opponent directly five times. Each time a player is attacked directly, they place the top card of their deck in the damage zone. Once there are five cards in a player's damage zone, that player loses the game.
 
-The game takes place on a 5*7 grid (wider than it is long). Players start the game with a deck of at least 40 cards, with no more than 3 copies of any one card, except for Basics (no limit) and Singletons (maximum of 1). Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
+The game takes place on a 5\*7 grid (wider than it is long). Players start the game with a deck of at least 40 cards, with no more than 3 copies of any one card, except for Basics (no limit) and Singletons (maximum of 1). Players draw 5 cards, decide to mulligan or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the board, known as their entry zone. If there are no empty spaces in a player's entry zone, excluding movable units that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they cannot draw a card from their deck.
 
 When combat between units is initiated, the attacker's power is subtracted from the defender's durability. When a unit's durability reaches zero, it is destroyed and discarded.
 
