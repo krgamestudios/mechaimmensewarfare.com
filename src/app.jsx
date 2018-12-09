@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
-import { Header, Container } from "semantic-ui-react";
+import { Header, Container, Divider } from "semantic-ui-react";
 
 //include styles
 import "./styles/shared.css";
@@ -34,6 +34,7 @@ class App extends React.Component {
 							<LinkButton to="/concepts">Concepts</LinkButton>
 							<LinkButton to="/about">About</LinkButton>
 						</LinkButton.Group>
+						<Divider hidden />
 						<Switch>
 							<Route exact path="/" component={ Landing } />
 							<Route exact path="/rules" component={ Rules } />

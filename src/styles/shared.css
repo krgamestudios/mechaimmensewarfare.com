@@ -47,3 +47,27 @@ footer {
 	flex-direction: column;
 	justify-content: flex-start;
 }
+
+/* centering */
+.centeredContent {
+	flex: 0 1 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.rightContent {
+	flex: 0 1 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+/* Up and Down Arrows */
+.descend:after{
+	content: "\25B2";
+}
+
+.ascend:after{
+	content: "\25BC";
+}
