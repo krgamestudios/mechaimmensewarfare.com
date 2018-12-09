@@ -1,5 +1,5 @@
 import React from "react";
-import { Table, Input, Icon } from "semantic-ui-react";
+import { Table, Input, Icon, Divider } from "semantic-ui-react";
 import Papa from "papaparse";
 import tsorter from "../utilities/tsorter.js";
 
@@ -38,16 +38,19 @@ class CardList extends React.Component {
 
 		//NOTE: id must match tsorter's argument above
 		return (
-			<Table unstackable id={"cardtable"}>
-				<Table.Header>
-					<Table.Row>
-						{headers}
-					</Table.Row>
-				</Table.Header>
-				<Table.Body>
-					{content}
-				</Table.Body>
-			</Table>
+			<div className="scrollable">
+				<Divider hidden />
+				<Table unstackable id={"cardtable"}>
+					<Table.Header>
+						<Table.Row>
+							{headers}
+						</Table.Row>
+					</Table.Header>
+					<Table.Body>
+						{content}
+					</Table.Body>
+				</Table>
+			</div>
 		);
 	}
 

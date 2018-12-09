@@ -63,6 +63,16 @@ footer {
 	justify-content: flex-end;
 }
 
+.scrollable {
+	max-width: 100%;
+	overflow: auto;
+}
+
+.noPadding {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
 /* Up and Down Arrows */
 .descend:after{
 	content: "\25B2";
@@ -70,4 +80,21 @@ footer {
 
 .ascend:after{
 	content: "\25BC";
+}
+
+/* Specific cases */
+thead {
+	font-weight: bold;
+}
+
+th {
+	min-width: 50px;
+}
+
+th:nth-child(1) {
+	min-width: 120px;
+}
+
+th:nth-child(4) {
+	min-width: 250px;
 }

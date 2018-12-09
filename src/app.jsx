@@ -29,10 +29,10 @@ class App extends React.Component {
 					<Container className="panel">
 						<Link to="/"><Header as="h1" textAlign="center">Mecha: Immense Warfare</Header></Link>
 						<LinkButton.Group widths="4">
-							<LinkButton to="/rules">Rules</LinkButton>
-							<LinkButton to="/cardlist">Card List</LinkButton>
-							<LinkButton to="/concepts">Concepts</LinkButton>
-							<LinkButton to="/about">About</LinkButton>
+							<LinkButton to="/rules" className="noPadding">Rules</LinkButton>
+							<LinkButton to="/cardlist" className="noPadding">Card List</LinkButton>
+							<LinkButton to="/concepts" className="noPadding">Concepts</LinkButton>
+							<LinkButton to="/about" className="noPadding">About</LinkButton>
 						</LinkButton.Group>
 						<Divider hidden />
 						<Switch>
