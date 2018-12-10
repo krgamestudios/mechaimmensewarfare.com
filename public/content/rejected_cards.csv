@@ -1,0 +1,10 @@
+Card Name;Cost;Type;Effect / Reminder Text;Power;Durability
+Wind-Up Koala;1;Mecha;(No abilities.);1;2
+Wind-Up Echidna;2;Mecha;(No abilities.);2;3
+Wind-Up Kangaroo;2;Mecha;(No abilities.);3;2
+Wind-Up Snake;3;Mecha;(No abilities.);4;1
+Wind-Up Monkey;3;Mecha;(No abilities.);1;4
+Demolisher;3;Mecha;This Mecha may attack units you control. This Mecha can't attack your opponents. When this Mecha destroys a unit, it gains 1 durability. This Mecha's power is equal to it's durability.;0;2
+Longbow;2;Mecha;Pierce (This unit ignores Armour counters when attacking). Range 3 (This unit may attack any target within three spaces).;1;1
+
+

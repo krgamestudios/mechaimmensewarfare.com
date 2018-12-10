@@ -42,7 +42,7 @@ Trigger Commands are a unique type of Command. If a Trigger Command is placed in
 Pilots
 ---
 
-**Pilots** are cards representing characters in the game's storyline. Pilots attach to Mechas, reducing that Mecha's bandwidth cost to zero, as well as granting various different abilities and stat boosts. Pilots must be attached to a Mecha in your entry zone. Once this is done, a Pilot's power and durability modifiers are immediately applied to that Mecha, and remain for as long as the pilot is attached. Each Mecha can have a maximum of one attached Pilot, and each Pilot can attach to only one Mecha at a time. Also, you may control at most one copy of each Pilot at any time. If you control more than one copy of a Pilot, you must discard them one at a time, until only one is left.
+**Pilots** are cards representing characters in the game's storyline. Pilots **attach** to Mechas, reducing that Mecha's bandwidth cost to zero, as well as granting various different abilities and stat boosts. Pilots must be attached to a Mecha in your entry zone. Once this is done, a Pilot's power and durability modifiers are immediately applied to that Mecha, and remain for as long as the pilot is attached. Each Mecha can have a maximum of one attached Pilot, and each Pilot can attach to only one Mecha at a time. Also, you may control at most one copy of each Pilot at any time. If you control more than one copy of a Pilot, you must discard them one at a time, until only one is left.
 
 Types of Counters
 ===
@@ -131,4 +131,14 @@ Duplicate Phase Skipping
 ---
 
 Some abilities may require you to **skip a phase** of your turn, or your entire turn to activate. If you do, you cannot activate multiple abilities with a single action this way. Therefore, in the case of having multiple copies of Pheonix in your discard pile, you may only skip your draw steps one at a time, and return one Pheonix to your hand at a time.
+
+Control-Alt-Delete
+---
+
+If the controller of a card changes, any other cards attached to that card remain under their original controller's control.
+
+Battlefield Fatigue
+---
+
+Any card attached to another card on the battlefield is also considered on the battlefield.
 
