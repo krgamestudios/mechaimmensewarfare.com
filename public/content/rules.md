@@ -7,7 +7,7 @@ The goal of the game is to attack your opponent directly five times. Each time a
 
 The game takes place on a 5 by 7 grid (wider than it is long) called the **battlefield**. Players start the game with a face down **deck** of at least 40 cards, with no more than 3 copies of any one card, except for **Basics** (no limit) and **Singletons** (maximum of 1). Players draw 5 cards, decide to **mulligan** or not (see [Mulligans](#Mulligans)), then take turns by placing certain cards on the closest row of the battlefield, known as their **entry zone**. If there are no empty spaces in a player's entry zone, excluding movable **units** that player owns, then the player cannot play a new card and loses the game. A player also loses the game if they try to draw a card from their deck while it is empty.
 
-You may **move and/or attack** once per turn with any unit you control. A unit cannot move or attack in the same turn it was played, unless it has **haste**. If a unit moves, it must attack immediately, or forfit the attack for the turn. Units cannot move after attacking.
+Each unit you control may **move and/or attack** once per turn. A unit cannot move or attack in the same turn it was played, unless it has **haste**. If a unit moves, it must attack immediately, or forfit the attack for the turn. Units cannot move after attacking.
 
 When a card is **discarded**, it is placed face-up into a separate pile called the **discard pile**.
 
