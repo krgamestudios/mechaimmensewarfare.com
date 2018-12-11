@@ -1,5 +1,6 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
+import MarkdownRenderers from "../utilities/markdown_renderers.js";
 
 class Landing extends React.Component {
 	constructor(props) {
@@ -29,7 +30,7 @@ class Landing extends React.Component {
 	render() {
 		return (
 			<div>
-				<ReactMarkdown source={this.state.body} />
+				<ReactMarkdown source={this.state.body} renderers={MarkdownRenderers} />
 			</div>
 		);
 	}
