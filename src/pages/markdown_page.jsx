@@ -2,17 +2,18 @@ import React from "react";
 import ReactMarkdown from "react-markdown";
 import MarkdownRenderers from "../utilities/markdown_renderers.js";
 
-class Landing extends React.Component {
+class MarkdownPage extends React.Component {
 	constructor(props) {
 		super(props);
 
 		this.state = {
+			source: props.source,
 			body: "Loading..."
 		};
 	}
 
 	componentDidMount() {
-		fetch("/content/landing.md")
+		fetch(this.state.source)
 			.then(result => result.text())
 			.then((result) => {
 				this.setState({
@@ -36,4 +37,4 @@ class Landing extends React.Component {
 	}
 }
 
-export default Landing;
+export default MarkdownPage;

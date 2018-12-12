@@ -1,4 +1,6 @@
 import React from "react";
+import { Header } from "semantic-ui-react";
+import LinkButton from "../panels/link_button.jsx";
 
 class NotFound extends React.Component {
 	constructor(props) {
@@ -7,8 +9,9 @@ class NotFound extends React.Component {
 
 	render() {
 		return (
-			<div>
-				<p>NotFound</p>
+			<div className="centeredPage">
+				<Header as="h1">Page Not Found</Header>
+				<LinkButton to="/">Return Home</LinkButton>
 			</div>
 		);
 	}
