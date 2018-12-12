@@ -38,8 +38,11 @@ class App extends React.Component {
 							<Route exact path="/" component={() => <MarkdownPage source={"content/landing.md"} /> } />
 							<Route exact path="/rules" component={() => <MarkdownPage source={"content/rules.md"} /> } />
 							<Route exact path="/cardlist" component={ CardList } />
-							<Route exact path="/concepts" component={ Concepts } />
+							<Route exact path="/concepts" component={() => <MarkdownPage source={"content/concepts.md"} /> } />
 							<Route exact path="/about" component={() => <MarkdownPage source={"content/about.md"} /> } />
+
+							<Route path="/story/:chapterId" component={(props) => <MarkdownPage source={`/content/story/${props.match.params.chapterId}.md`} /> } />
+
 							<Route path="*" component={ NotFound } />
 						</Switch>
 					</Container>
