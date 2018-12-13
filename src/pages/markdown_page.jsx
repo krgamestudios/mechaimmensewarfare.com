@@ -7,25 +7,21 @@ class MarkdownPage extends React.Component {
 		super(props);
 
 		this.state = {
-			source: props.source,
-			body: "Loading..."
+			source: props.source || null,
+			body: props.body
 		};
 	}
 
 	componentDidMount() {
-		fetch(this.state.source)
-			.then(result => result.text())
-			.then((result) => {
-				this.setState({
-					body: result
-				});
-			},
-			//handle errors here instead of a catch block because internet said so
-			(error) => {
-				this.setState({
-					body: error
-				});
-			});
+		//if the source is set, grab it from the server and overwrite the body
+		if (this.state.source) {
+			fetch(this.state.source)
+				.then(result => result.text())
+				.then(
+					result => this.setState({ body: result }),
+					error => this.setState({ body: error })
+				);
+		}
 	}
 
 	render() {
