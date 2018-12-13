@@ -2,6 +2,9 @@ import React from "react";
 import { BrowserRouter, Switch, Route, Link } from "react-router-dom";
 import { Header, Container, Divider } from "semantic-ui-react";
 
+//include tools
+import GA from './utilities/google_analytics.jsx';
+
 //include styles
 import "./styles/shared.css";
 
@@ -26,6 +29,7 @@ class App extends React.Component {
 			<div className="central">
 				<BrowserRouter>
 					<Container className="panel" style={{ display: "flex" }}>
+						{ GA.init() && <GA.RouteTracker /> }
 						<Link to="/"><Header as="h1" textAlign="center">Mecha: Immense Warfare</Header></Link>
 						<LinkButton.Group widths="4">
 							<LinkButton to="/rules" className="noPadding">Rules</LinkButton>

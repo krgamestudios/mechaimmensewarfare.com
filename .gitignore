@@ -4,6 +4,9 @@ logs/**
 /**/node_modules
 /**/dl
 
+#passwords
+auth.json
+
 #log files
 /**/*.log
 
