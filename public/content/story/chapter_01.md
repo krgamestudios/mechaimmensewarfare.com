@@ -7,15 +7,15 @@ The familiar queasy sickness took hold in Grace’s gut, but she didn’t have t
 
 Two of the Mechas - Wasp Drones - broke formation and charged the whale.
 
-“This’ll be an easy one” Grace whispered to herself. She had feared that the six would attack together, but instead they’re going to test her capabilities. She would gladly oblige.
+"This’ll be an easy one" Grace whispered to herself. She had feared that the six would attack together, but instead they’re going to test her capabilities. She would gladly oblige.
 
-“Admiral-” a crackly voice came across the radio. One of her technicians that still used her long-discarded title.
+"Admiral-" a crackly voice came across the radio. One of her technicians that still used her long-discarded title.
 
-“One of the drones isn’t receiving a signal”. So, there was a pilot. Yes, one of the four that were hanging back. Were they commanding the rest, or being commanded themselves?
+"One of the drones isn’t receiving a signal". So, there was a pilot. Yes, one of the four that were hanging back. Were they commanding the rest, or being commanded themselves?
 
-“Roger that. Keep an eye on it. I want to know when it moves.”
+"Roger that. Keep an eye on it. I want to know when it moves."
 
-“Roger Admiral. Out.”
+"Roger Admiral. Out."
 
 The first two drones approached. One. Two. Easy kills for her, despite her stolen Mecha - a Sky Whale - getting on in years.
 
@@ -29,13 +29,13 @@ The fifth approached, dead straight. Grace was distracted by her thoughts, but e
 
 This was new for the Empire. Mecha were expensive to build, and even harder to control. What had they sought to gain from spooking her whale? A low cry of shock resounded through the cockpit, and hot pinpricks pierced the skin of her face. She willed the machine around her to calm down, mentally asserting her authority, and her confidence.
 
-Such an act would’ve been futile when she had first “acquired” the whale. Back then, it really was just a machine. However, it’s time within proximity of the Catastrophe had caused it to gain at least some semblance of a mind. She had wondered what would happen when the Sky Whale decided not to obey, but she needed the safety of the Catastrophe's barriers. It was a risk she had to take.
+Such an act would’ve been futile when she had first "acquired" the whale. Back then, it really was just a machine. However, it’s time within proximity of the Catastrophe had caused it to gain at least some semblance of a mind. She had wondered what would happen when the Sky Whale decided not to obey, but she needed the safety of the Catastrophe's barriers. It was a risk she had to take.
 
-“Admiral-” the technician again.
+"Admiral-" the technician again.
 
-“Admiral, the last drone has a pilot.”
+"Admiral, the last drone has a pilot."
 
-“Roger that.” She was alert now. The whale was upset. She had to keep her mind focused for the commands from her hands to be obeyed.
+"Roger that." She was alert now. The whale was upset. She had to keep her mind focused for the commands from her hands to be obeyed.
 
 The last Wasp Drone hadn’t moved since it arrived. Tense moments past. Then suddenly, movement. Grace watched closely, both through the cockpit window and a display screen, as the drone convulsed. Then, it started to change.
 
@@ -45,65 +45,65 @@ Grace pondered this quirk for a moment, before the wasp attacked.
 
 It dived straight for the whale’s eyes, seemingly knowing that the whale would react. The behemoth of a machine winced in pain, swinging its head side to side. The wasp was moving too fast, Grace realized. This was more than a retrofit.
 
-“Home base! Patch me through to the enemy pilot!” she demanded, as a desperate plan began to form.
+"Home base! Patch me through to the enemy pilot!" she demanded, as a desperate plan began to form.
 
-“Uh- yes admiral!”.
+"Uh- yes admiral!".
 
 A buzzing sound filled the air. The engines of the wasp were being picked up by the microphone.
 
-“This is Grace Hopper, former admiral of the Oceania Navy.” She spoke with an authority earned through years of service.
+"This is Grace Hopper, former admiral of the Oceania Navy." She spoke with an authority earned through years of service.
 
-“Yes I know”. A child? The pilot of the wasp was a child, or someone who sounded very much like one. That threw her for a second.
+"Yeah I know". A child? The pilot of the wasp was a child, or someone who sounded very much like one. That threw her for a second.
 
 The whale snapped it’s massive mouth at the wasp, trying to rid itself of this horrible affliction.
 
-“You are in violation of the Washington treaty by attacking a civilian outpost in neutral territory.”
+"You are in violation of the Washington treaty by attacking a civilian outpost in neutral territory."
 
-“My commander said you would say that. Did you know that possessing a military grade Mecha as a civilian violated that treaty too?”
+"My commander said you would say that. Did you know that possessing a military grade Mecha as a civilian violates that treaty too?"
 
 She was talking about the Sky Whale. Damn; she was fair game.
 
-“Also,” the girl continued, “you’re a runaway. I read that you stole the Sky Whale and ran to the Catastrophe, where the navy police couldn’t follow you.”
+"Also," the girl continued, "you’re a runaway. I read that you stole the Sky Whale and ran to the Catastrophe, where the navy police couldn’t follow you."
 
 Right again. The Catastrophe was technically in Central Empire territory. Oceania couldn’t do anything without aggravating tensions.
 
-“Finally,” oh, this was gonna be good, “you’ve been hiding in the Catastrophe’s barriers, which is against the law.”
+"Finally," oh, this was gonna be good, "you’ve been hiding in the Catastrophe’s barriers, which is against the law."
 
 Strike three. Entering the barriers is easy. Getting back out was deadly. Thus, illegal.
 
-“So”, the voice concluded, “can I join?”
+"So", the voice concluded, "can I join?"
 
 The whale snapped again, and again. Grace pushed her surprise to the back of her mind to focus. This whale was not happy.
 
-“It depends.” Grace began “How did you change that Mecha’s appearance and capabilities?”
+"It depends." Grace began "How did you change that Mecha’s appearance and capabilities?"
 
-“I knew that’d get your attention. I did it so you’d try to recruit me.”
+"I knew that’d get your attention. I did it so you’d try to recruit me."
 
 Ouch. The little so and so- was right. Why else did she contact her in the first place?
 
-“You haven’t answered my question.”
+"You haven’t answered my question."
 
-“I can make Mechas transform. I don’t know how it works, only that I need to focus really hard. My commander was teaching me how before I left.”
+"I can make Mechas transform. I don’t know how it works, only that I need to focus really hard. My commander was teaching me how before I left."
 
-“So you stole a bunch of Mechas and attacked us?”
+"So you stole a bunch of Mechas and attacked us?"
 
-“Well-” the voice paused for a moment. “I figured I’d show you what I could do. I’m a good pilot. When they found what I could do, the army started training me.”
+"Well-" the voice paused for a moment. "I figured I’d show you what I could do. I’m a good pilot. When they found what I could do, the army started training me."
 
-“They” Grace emphasised the word. “who are they? What army?”
+"They" Grace emphasised the word. "who are they? What army?"
 
-“I’m from the Central Empire. I don’t know exactly where from.”
+"I’m from the Central Empire. I don’t know exactly where from."
 
 This was a problem. If the Central Empire came looking for her, they’d have every right to expunge their little camp from the face of the Earth. On the other hand, that ability was… unique. It’s something she had never seen in Oceania, and it might be connected to the Catastrophe somehow.
 
 The empire would definitely want her back. There’s simply no way they’d let an asset like that slip away during the night. There was likely several large retrieval teams looking for her all over the continent. If she - or her Mechas - were tracked here, there’s no way she could fight them all off. It’s suicide.
 
-“Welcome aboard kid. what's your name?”
+"Welcome aboard kid. what's your name?"
 
-“I’m Donna. And I’m not a kid. I’m fourteen.”
+"I’m Donna. And I’m not a kid. I’m fourteen."
 
 Grace couldn’t stop a smirk from crossing her face.
 
-“Dock with the whale. I want to show you something.” Her technicians would be having a heart attack from hearing this exchange. If she and the kid were still alive by sundown, only then would they return to base.
+"Dock with the whale. I want to show you something." Her technicians would be having a heart attack from hearing this exchange. If she and the kid were still alive by sundown, only then would they return to base.
 
 ---
 
@@ -115,11 +115,11 @@ They couldn’t get a clear view from the air, so they had landed their Mechas a
 
 Finally, they reached an outcrop of rock and shrubs that hid the weak point.
 
-“Let me catch my breath.” said Grace, before downing half a bottle of water. 
+"Let me catch my breath." said Grace, before downing half a bottle of water. 
 
 Donna was staring at the barrier; an ever shifting veil of dull light, that seemed as solid as the ground beneath their feet. Thanks to some sort of quirk in the visual distillation of whatever the technician had said, the bottom of the barrier was nearly clear. This point, in particular, was completely transparent.
 
-“Go and have a look. But don’t cross the barbed wire.”
+"Go and have a look. But don’t cross the barbed wire."
 
 Donna carefully crossed the outcropping, until she reached said wire.
 
@@ -135,11 +135,11 @@ The Catastrophe, an alien spacecraft that caused so much pain and death, yet was
 
 This was all known to Donna, of course, but she was grateful to the admiral for bringing her here to see it in person.
 
-“Let’s go.” Grace broke the silence after a while. “We can discuss theories later. Right now, we need food. Have you eaten?”
+"Let’s go." Grace broke the silence after a while. "We can discuss theories later. Right now, we need food. Have you eaten?"
 
 She was answered with a simple shake of the head. Grace started down the path impatiently. Donna took one last long moment to drink it all in, before swearing to herself,
 
-“I’ll solve the secrets of the Catastrophe.”
+"I’ll solve the secrets of the Catastrophe."
 
 ---
 
