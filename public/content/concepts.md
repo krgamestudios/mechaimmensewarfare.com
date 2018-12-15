@@ -15,24 +15,23 @@ Deck Lists
 
 Grace's Command
 ---
-17x Basic towers  
+17x Radio Tower  
 2x Admiral Grace  
 2x Grace's Rally Cry  
 1x Sky Whale  
 2x Attack Orders  
 3x Cap Gun  
 2x Shortbow  
-1x Longbow  
 2x Spectre  
 2x Tunnel Warfare  
-2x Wind-Up Bull  
-2x Electric Bull  
+3x Bugzapper  
+2x Ramp Orders  
 1x Turtle  
 1x Auto-Repairer  
 
 Donna's Search
 ---
-15x Basic Towers  
+15x Radio Tower  
 2x Donna, The Swift  
 2x Donna's Rally Cry  
 1x Dig For Answers  
