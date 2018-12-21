@@ -142,3 +142,7 @@ Battlefield Fatigue
 
 Any card attached to another card on the battlefield is also considered on the battlefield.
 
+Swing And A Miss
+---
+
+Mechas must have at least 1 power to deal damage directly to an opponent.

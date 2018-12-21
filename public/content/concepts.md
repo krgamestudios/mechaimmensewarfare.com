@@ -20,7 +20,6 @@ Grace's Command
 2x Grace's Rally Cry  
 1x Sky Whale  
 2x Attack Orders  
-3x Cap Gun  
 2x Shortbow  
 2x Spectre  
 2x Tunnel Warfare  
@@ -28,6 +27,7 @@ Grace's Command
 2x Ramp Orders  
 1x Turtle  
 1x Auto-Repairer  
+3x Frequency Modulator  
 
 Donna's Search
 ---
@@ -44,5 +44,5 @@ Donna's Search
 2x Bot-A-Pult  
 1x EMP Blast  
 2x Stonewall  
-3x Frequency Modulator  
 1x Gutshot  
+3x Cap Gun  
