@@ -11,7 +11,6 @@ import "./styles/shared.css";
 //include other pages
 import MarkdownPage from "./pages/markdown_page.jsx";
 import CardList from "./pages/card_list.jsx";
-import Concepts from "./pages/concepts.jsx";
 import NotFound from "./pages/not_found.jsx";
 
 //include panels
