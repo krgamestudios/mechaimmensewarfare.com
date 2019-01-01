@@ -6,9 +6,10 @@ class Footer extends React.Component {
 	}
 
 	render() {
+		let year = new Date().getFullYear();
 		return (
 			<footer>
-				<p>Copyright <a href="http://krgamestudios.com">KR Game Studios</a> 2016-2018</p>
+				<p>Copyright <a href="http://krgamestudios.com">KR Game Studios</a> 2016-{year}</p>
 			</footer>
 		);
 	};
