@@ -8,7 +8,7 @@ Storyline
 
 [Chapter 1: Unexpected Allies](/story/chapter_01)  
 [Chapter 2: Unexpected Idiots](/story/chapter_02)  
-Chapter 3: Coming Soon  
+[Chapter 3: Unexpected Visitors](/story/chapter_03) (draft)  
 
 Deck Lists
 ===
