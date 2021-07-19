@@ -13,5 +13,8 @@ auth.json
 #output files
 *.bundle.js
 
+#config files
+docker-compose.yml
+
 #development files
 package-lock.json
